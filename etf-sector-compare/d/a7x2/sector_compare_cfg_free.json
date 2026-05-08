@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "tool": "etf-sector-compare",
+    "audience": "free",
+    "as_of_date": "2026-04-30",
+    "generated_at": "2026-05-08T09:34:47"
+  },
+  "columns": [
+    {
+      "field_name": "comm_services_alloc",
+      "display_name": "Communication Services",
+      "metric_order": 1,
+      "include": true,
+      "locked": false,
+      "format": "percent",
+      "metric_exists": true,
+      "notes": ""
+    },
+    {
+      "field_name": "cons_disc_alloc",
+      "display_name": "Consumer Discretionary",
+      "metric_order": 2,
+      "include": true,
+      "locked": false,
+      "format": "percent",
+      "metric_exists": true,
+      "notes": ""
+    },
+    {
+      "field_name": "cons_staples_alloc",
+      "display_name": "Consumer Staples",
+      "metric_order": 3,
+      "include": true,
+      "locked": false,
+      "format": "percent",
+      "metric_exists": true,
+      "notes": ""
+    },
+    {
+      "field_name": "energy_alloc",
+      "display_name": "Energy",
+      "metric_order": 4,
+      "include": true,
+      "locked": false,
+      "format": "percent",
+      "metric_exists": true,
+      "notes": ""
+    },
+    {
+      "field_name": "financials_alloc",
+      "display_name": "Financials",
+      "metric_order": 5,
+      "include": true,
+      "locked": false,
+      "format": "percent",
+      "metric_exists": true,
+      "notes": ""
+    },
+    {
+      "field_name": "health_care_alloc",
+      "display_name": "Health Care",
+      "metric_order": 6,
+      "include": true,
+      "locked": false,
+      "format": "percent",
+      "metric_exists": true,
+      "notes": ""
+    },
+    {
+      "field_name": "industrials_alloc",
+      "display_name": "Industrials",
+      "metric_order": 7,
+      "include": true,
+      "locked": false,
+      "format": "percent",
+      "metric_exists": true,
+      "notes": ""
+    },
+    {
+      "field_name": "materials_alloc",
+      "display_name": "Materials",
+      "metric_order": 8,
+      "include": true,
+      "locked": false,
+      "format": "percent",
+      "metric_exists": true,
+      "notes": ""
+    },
+    {
+      "field_name": "real_estate_alloc",
+      "display_name": "Real Estate",
+      "metric_order": 9,
+      "include": true,
+      "locked": false,
+      "format": "percent",
+      "metric_exists": true,
+      "notes": ""
+    },
+    {
+      "field_name": "technology_alloc",
+      "display_name": "Technology",
+      "metric_order": 10,
+      "include": true,
+      "locked": false,
+      "format": "percent",
+      "metric_exists": true,
+      "notes": ""
+    },
+    {
+      "field_name": "utilities_alloc",
+      "display_name": "Utilities",
+      "metric_order": 11,
+      "include": true,
+      "locked": false,
+      "format": "percent",
+      "metric_exists": true,
+      "notes": ""
+    },
+    {
+      "field_name": "sector_diversification_score",
+      "display_name": "Sector Diversification Score",
+      "metric_order": 12,
+      "include": true,
+      "locked": false,
+      "format": "decimal",
+      "metric_exists": true,
+      "notes": ""
+    }
+
+  ]
+}
