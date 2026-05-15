@@ -2,9 +2,9 @@
   "meta": {
     "tool": "etf-sector-compare",
     "audience": "premium",
-    "as_of_date": "2026-05-13",
+    "as_of_date": "2026-05-14",
     "record_count": 1033,
-    "generated_at": "2026-05-14T10:52:57"
+    "generated_at": "2026-05-15T07:57:07"
   },
   "etfs": [
     {
@@ -10057,18 +10057,18 @@
     {
       "ticker": "NZUS",
       "metrics": {
-        "comm_services_alloc": 0.099939795304034,
-        "cons_disc_alloc": 0.096126831226169,
-        "cons_staples_alloc": 0,
-        "energy_alloc": 0,
-        "financials_alloc": 0.125526791089705,
-        "health_care_alloc": 0.082279751153923,
-        "industrials_alloc": 0.02398153722657,
-        "materials_alloc": 0.005117399157134,
-        "real_estate_alloc": 0.106662653020269,
-        "technology_alloc": 0.443507926951635,
-        "utilities_alloc": 0.01685731487056,
-        "sector_diversification_score": 5.86953642384106
+        "comm_services_alloc": null,
+        "cons_disc_alloc": null,
+        "cons_staples_alloc": null,
+        "energy_alloc": null,
+        "financials_alloc": null,
+        "health_care_alloc": null,
+        "industrials_alloc": null,
+        "materials_alloc": null,
+        "real_estate_alloc": null,
+        "technology_alloc": null,
+        "utilities_alloc": null,
+        "sector_diversification_score": null
       }
     },
     {
