@@ -1,6 +1,6 @@
 [
-  {"config_key": "as_of_date", "config_value": "2026-05-18"},
+  {"config_key": "as_of_date", "config_value": "2026-05-19"},
   {"config_key": "last_full_month", "config_value": "2026-04-30"},
-  {"config_key": "last_monthly_returns_update", "config_value": "2026-05-18"},
+  {"config_key": "last_monthly_returns_update", "config_value": "2026-05-19"},
   {"config_key": "sector_adjustment_strength", "config_value": 0.25}
 ]
