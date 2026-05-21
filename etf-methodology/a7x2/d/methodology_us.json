@@ -1,7 +1,7 @@
 ﻿{
   "methodology": "ETF Rankings - U.S. Ranking Methodology",
   "region": "US",
-  "as_of_date": "2026-05-12",
+  "as_of_date": "2026-05-21",
   "metrics": [
     {
       "methodology_display_name": "Expense Ratio",
@@ -642,17 +642,6 @@
       "notes": "Measures difference between each underlying holdings' 50-day and 200-day moving average prices."
     },
     {
-      "methodology_display_name": "1Y Wall Street Price Upside",
-      "methodology_group": 10,
-      "methodology_group_label": "Sentiment",
-      "methodology_group_order": 1,
-      "sector_adjust": true,
-      "metric_category_weight_us": 0.05,
-      "metric_weight_in_category_us": 0.5,
-      "metric_weight_net_us": 0.025,
-      "notes": "The implied consensus Wall Street Analyst price target upside based on current holdings."
-    },
-    {
       "methodology_display_name": "3Y vs. 5Y Earnings Acceleration",
       "methodology_group": 10,
       "methodology_group_label": "Sentiment",
@@ -662,6 +651,17 @@
       "metric_weight_in_category_us": 0.5,
       "metric_weight_net_us": 0.025,
       "notes": "The weighted-average three-year EPS growth rate less then five-year EPS growth rate based on current holdings."
+    },
+    {
+      "methodology_display_name": "Consensus Analyst Rating",
+      "methodology_group": 10,
+      "methodology_group_label": "Sentiment",
+      "methodology_group_order": 1,
+      "sector_adjust": false,
+      "metric_category_weight_us": 0.05,
+      "metric_weight_in_category_us": 0.5,
+      "metric_weight_net_us": 0.025,
+      "notes": "The implied consensus Wall Street Analyst rating on a 0-10 scale based on current holdings."
     }
   ]
 }
