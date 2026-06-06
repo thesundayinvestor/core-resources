@@ -1,7 +1,7 @@
 ﻿{
   "methodology": "ETF Rankings - U.S. Ranking Methodology",
   "region": "US",
-  "as_of_date": "2026-06-05",
+  "as_of_date": "2026-06-06",
   "metrics": [
     {
       "methodology_display_name": "Expense Ratio",
@@ -367,7 +367,7 @@
       "notes": "The weighted average next-year revenue growth rate based on current holdings."
     },
     {
-      "methodology_display_name": "Next-Five-Year Revenue Growth",
+      "methodology_display_name": "Next-Three-Year Revenue Growth",
       "methodology_group": 7,
       "methodology_group_label": "Growth",
       "methodology_group_order": 6,
@@ -375,7 +375,7 @@
       "metric_category_weight_us": 0.125,
       "metric_weight_in_category_us": 0.15,
       "metric_weight_net_us": 0.01875,
-      "notes": "The weighted average next-five-year revenue growth rate based on current holdings."
+      "notes": "The weighted average next-three-year revenue growth rate based on current holdings."
     },
     {
       "methodology_display_name": "5Y Historical EPS Growth",
@@ -422,7 +422,7 @@
       "notes": "The weighted average next-year earnings per share growth rate based on current holdings."
     },
     {
-      "methodology_display_name": "Next-Five-Year EPS Growth",
+      "methodology_display_name": "Next-Three-Year EPS Growth",
       "methodology_group": 7,
       "methodology_group_label": "Growth",
       "methodology_group_order": 11,
@@ -430,7 +430,7 @@
       "metric_category_weight_us": 0.125,
       "metric_weight_in_category_us": 0.1,
       "metric_weight_net_us": 0.0125,
-      "notes": "The weighted average next-five-year earnings per share growth rate based on current holdings."
+      "notes": "The weighted average next-three-year earnings per share growth rate based on current holdings."
     },
     {
       "methodology_display_name": "5Y Historical Net Income Growth",
