@@ -3,8 +3,8 @@
     "tool": "etf-sector-compare",
     "audience": "free",
     "as_of_date": "2026-06-05",
-    "record_count": 1479,
-    "generated_at": "2026-06-08T07:05:49"
+    "record_count": 1477,
+    "generated_at": "2026-06-08T14:21:22"
   },
   "etfs": [
     {
@@ -15019,23 +15019,6 @@
       }
     },
     {
-      "ticker": "NZUS",
-      "metrics": {
-        "comm_services_alloc": null,
-        "cons_disc_alloc": null,
-        "cons_staples_alloc": null,
-        "energy_alloc": null,
-        "financials_alloc": null,
-        "health_care_alloc": null,
-        "industrials_alloc": null,
-        "materials_alloc": null,
-        "real_estate_alloc": null,
-        "technology_alloc": null,
-        "utilities_alloc": null,
-        "sector_diversification_score": null
-      }
-    },
-    {
       "ticker": "OAIM",
       "metrics": {
         "comm_services_alloc": 0.062290076335878,
@@ -20983,23 +20966,6 @@
         "technology_alloc": 0.263760998567629,
         "utilities_alloc": 0.006650296705545,
         "sector_diversification_score": 6.8354511970534
-      }
-    },
-    {
-      "ticker": "SZNE",
-      "metrics": {
-        "comm_services_alloc": null,
-        "cons_disc_alloc": null,
-        "cons_staples_alloc": null,
-        "energy_alloc": null,
-        "financials_alloc": null,
-        "health_care_alloc": null,
-        "industrials_alloc": null,
-        "materials_alloc": null,
-        "real_estate_alloc": null,
-        "technology_alloc": null,
-        "utilities_alloc": null,
-        "sector_diversification_score": null
       }
     },
     {
