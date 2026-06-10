@@ -2,9 +2,9 @@
   "meta": {
     "tool": "etf-sector-compare",
     "audience": "premium",
-    "as_of_date": "2026-06-08",
+    "as_of_date": "2026-06-09",
     "record_count": 1476,
-    "generated_at": "2026-06-09T09:06:37"
+    "generated_at": "2026-06-10T07:40:08"
   },
   "etfs": [
     {
@@ -673,7 +673,7 @@
     {
       "ticker": "ARKF",
       "metrics": {
-        "comm_services_alloc": 0.117777285809165,
+        "comm_services_alloc": 0.117002435244631,
         "cons_disc_alloc": 0.159176444542838,
         "cons_staples_alloc": 0,
         "energy_alloc": 0,
@@ -682,7 +682,7 @@
         "industrials_alloc": 0,
         "materials_alloc": 0,
         "real_estate_alloc": 0,
-        "technology_alloc": 0.352999778614124,
+        "technology_alloc": 0.353774629178658,
         "utilities_alloc": 0,
         "sector_diversification_score": 3.71424618109365
       }
@@ -14288,23 +14288,6 @@
       }
     },
     {
-      "ticker": "MMLG",
-      "metrics": {
-        "comm_services_alloc": null,
-        "cons_disc_alloc": null,
-        "cons_staples_alloc": null,
-        "energy_alloc": null,
-        "financials_alloc": null,
-        "health_care_alloc": null,
-        "industrials_alloc": null,
-        "materials_alloc": null,
-        "real_estate_alloc": null,
-        "technology_alloc": null,
-        "utilities_alloc": null,
-        "sector_diversification_score": null
-      }
-    },
-    {
       "ticker": "MMSC",
       "metrics": {
         "comm_services_alloc": 0.006931702344546,
@@ -20728,6 +20711,23 @@
         "technology_alloc": 0.455228365384615,
         "utilities_alloc": 0,
         "sector_diversification_score": 4.92100360576923
+      }
+    },
+    {
+      "ticker": "STXF",
+      "metrics": {
+        "comm_services_alloc": null,
+        "cons_disc_alloc": null,
+        "cons_staples_alloc": null,
+        "energy_alloc": null,
+        "financials_alloc": null,
+        "health_care_alloc": null,
+        "industrials_alloc": null,
+        "materials_alloc": null,
+        "real_estate_alloc": null,
+        "technology_alloc": null,
+        "utilities_alloc": null,
+        "sector_diversification_score": null
       }
     },
     {
