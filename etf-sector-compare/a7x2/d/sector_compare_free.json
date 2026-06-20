@@ -4,7 +4,7 @@
     "audience": "free",
     "as_of_date": "2026-06-19",
     "record_count": 1472,
-    "generated_at": "2026-06-20T07:21:19"
+    "generated_at": "2026-06-20T16:49:54"
   },
   "etfs": [
     {
@@ -16521,14 +16521,14 @@
         "cons_disc_alloc": 0,
         "cons_staples_alloc": 0,
         "energy_alloc": 0,
-        "financials_alloc": 0.034896510348965,
+        "financials_alloc": 0,
         "health_care_alloc": 0,
-        "industrials_alloc": 0.025797420257974,
+        "industrials_alloc": 0,
         "materials_alloc": 0,
         "real_estate_alloc": 0,
-        "technology_alloc": 0.939306069393061,
+        "technology_alloc": 1,
         "utilities_alloc": 0,
-        "sector_diversification_score": 1.6008699130087
+        "sector_diversification_score": 1
       }
     },
     {
