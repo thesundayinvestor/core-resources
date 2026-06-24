@@ -2,9 +2,9 @@
   "meta": {
     "tool": "etf-sector-compare",
     "audience": "free",
-    "as_of_date": "2026-06-22",
-    "record_count": 1472,
-    "generated_at": "2026-06-23T10:25:50"
+    "as_of_date": "2026-06-23",
+    "record_count": 1471,
+    "generated_at": "2026-06-24T07:52:12"
   },
   "etfs": [
     {
@@ -1559,10 +1559,10 @@
       "metrics": {
         "comm_services_alloc": 0.042977045201739,
         "cons_disc_alloc": 0.315603195469714,
-        "cons_staples_alloc": 0,
+        "cons_staples_alloc": 0.001820204267368,
         "energy_alloc": 0.004651633127718,
         "financials_alloc": 0.37516432399636,
-        "health_care_alloc": 0.001820204267368,
+        "health_care_alloc": 0,
         "industrials_alloc": 0.00788755182526,
         "materials_alloc": 0,
         "real_estate_alloc": 0,
@@ -11725,16 +11725,16 @@
       "metrics": {
         "comm_services_alloc": 0.019244332493703,
         "cons_disc_alloc": 0.054105793450882,
-        "cons_staples_alloc": 0.015818639798489,
+        "cons_staples_alloc": 0.016221662468514,
         "energy_alloc": 0.035969773299749,
         "financials_alloc": 0.186700251889171,
-        "health_care_alloc": 0.264483627204033,
+        "health_care_alloc": 0.264080604534008,
         "industrials_alloc": 0.128866498740556,
         "materials_alloc": 0.039496221662469,
         "real_estate_alloc": 0.032342569269522,
         "technology_alloc": 0.216624685138542,
         "utilities_alloc": 0.006347607052897,
-        "sector_diversification_score": 5.71291687657427
+        "sector_diversification_score": 5.71690680100752
       }
     },
     {
@@ -13826,23 +13826,6 @@
         "technology_alloc": 0.184313332665531,
         "utilities_alloc": 0,
         "sector_diversification_score": 2.65169788640689
-      }
-    },
-    {
-      "ticker": "MAGA",
-      "metrics": {
-        "comm_services_alloc": 0,
-        "cons_disc_alloc": 0.0784,
-        "cons_staples_alloc": 0.0806,
-        "energy_alloc": 0.1099,
-        "financials_alloc": 0.1599,
-        "health_care_alloc": 0.0601,
-        "industrials_alloc": 0.229,
-        "materials_alloc": 0.0947,
-        "real_estate_alloc": 0.0708,
-        "technology_alloc": 0.0123,
-        "utilities_alloc": 0.1043,
-        "sector_diversification_score": 7.59178
       }
     },
     {
@@ -17452,18 +17435,18 @@
     {
       "ticker": "QQQS",
       "metrics": {
-        "comm_services_alloc": 0.021932899349024,
-        "cons_disc_alloc": 0.060190285428142,
-        "cons_staples_alloc": 0.016925388082123,
-        "energy_alloc": 0.00350525788683,
+        "comm_services_alloc": 0.021935096153846,
+        "cons_disc_alloc": 0.060096153846154,
+        "cons_staples_alloc": 0.016927083333333,
+        "energy_alloc": 0.003505608974359,
         "financials_alloc": 0,
-        "health_care_alloc": 0.409614421632449,
-        "industrials_alloc": 0.052478718077116,
-        "materials_alloc": 0.010415623435153,
+        "health_care_alloc": 0.409655448717949,
+        "industrials_alloc": 0.052483974358974,
+        "materials_alloc": 0.010416666666667,
         "real_estate_alloc": 0,
-        "technology_alloc": 0.424937406109164,
+        "technology_alloc": 0.424979967948718,
         "utilities_alloc": 0,
-        "sector_diversification_score": 3.53793690535804
+        "sector_diversification_score": 3.537109375
       }
     },
     {
