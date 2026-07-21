@@ -642,7 +642,7 @@
       "notes": "Measures difference between each underlying holdings' 50-day and 200-day moving average prices."
     },
     {
-      "methodology_display_name": "3Y vs. 5Y Earnings Acceleration",
+      "methodology_display_name": "Next-Year vs. 1Y Trailing EPS Growth Acceleration",
       "methodology_group": 10,
       "methodology_group_label": "Sentiment",
       "methodology_group_order": 2,
@@ -650,7 +650,7 @@
       "metric_category_weight_us": 0.05,
       "metric_weight_in_category_us": 0.5,
       "metric_weight_net_us": 0.025,
-      "notes": "The weighted-average three-year EPS growth rate less then five-year EPS growth rate based on current holdings."
+      "notes": "The weighted-average next-year EPS growth rate less then one-year EPS growth rate based on current holdings."
     },
     {
       "methodology_display_name": "Consensus Analyst Rating",
