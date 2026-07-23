@@ -2,9 +2,9 @@
   "meta": {
     "tool": "etf-sector-compare",
     "audience": "premium",
-    "as_of_date": "2026-07-21",
+    "as_of_date": "2026-07-22",
     "record_count": 1476,
-    "generated_at": "2026-07-22T08:05:23"
+    "generated_at": "2026-07-23T07:43:12"
   },
   "etfs": [
     {
@@ -18251,18 +18251,18 @@
     {
       "ticker": "RPG",
       "metrics": {
-        "comm_services_alloc": 0.062710041877917,
-        "cons_disc_alloc": 0.146480046653947,
-        "cons_staples_alloc": 0.01925964175656,
+        "comm_services_alloc": 0.062426892683383,
+        "cons_disc_alloc": 0.145395110273762,
+        "cons_staples_alloc": 0.018851442591376,
         "energy_alloc": 0,
-        "financials_alloc": 0.056856375099247,
-        "health_care_alloc": 0.069010159816588,
-        "industrials_alloc": 0.175794104627755,
-        "materials_alloc": 0.011687135704603,
-        "real_estate_alloc": 0.011725290724142,
-        "technology_alloc": 0.435657943878345,
-        "utilities_alloc": 0.010819259860896,
-        "sector_diversification_score": 5.19647225791553
+        "financials_alloc": 0.036772057332123,
+        "health_care_alloc": 0.068614713864009,
+        "industrials_alloc": 0.177055208836835,
+        "materials_alloc": 0.011981743040659,
+        "real_estate_alloc": 0.011665706936056,
+        "technology_alloc": 0.456245832811061,
+        "utilities_alloc": 0.010991291630736,
+        "sector_diversification_score": 4.99090809597559
       }
     },
     {
