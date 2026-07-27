@@ -3,8 +3,8 @@
     "tool": "etf-sector-compare",
     "audience": "free",
     "as_of_date": "2026-07-24",
-    "record_count": 1476,
-    "generated_at": "2026-07-25T09:05:49"
+    "record_count": 1478,
+    "generated_at": "2026-07-26T21:01:40"
   },
   "etfs": [
     {
@@ -73,23 +73,6 @@
         "technology_alloc": 0,
         "utilities_alloc": 0.039478727481794,
         "sector_diversification_score": 6.68758144883097
-      }
-    },
-    {
-      "ticker": "ABFL",
-      "metrics": {
-        "comm_services_alloc": 0.030549898167006,
-        "cons_disc_alloc": 0.137067209775967,
-        "cons_staples_alloc": 0.0489816700611,
-        "energy_alloc": 0.017922606924644,
-        "financials_alloc": 0.058553971486762,
-        "health_care_alloc": 0.155906313645621,
-        "industrials_alloc": 0.15091649694501,
-        "materials_alloc": 0.021588594704684,
-        "real_estate_alloc": 0,
-        "technology_alloc": 0.378513238289206,
-        "utilities_alloc": 0,
-        "sector_diversification_score": 5.45820773930754
       }
     },
     {
@@ -467,23 +450,6 @@
       }
     },
     {
-      "ticker": "AIVL",
-      "metrics": {
-        "comm_services_alloc": 0.042515956351657,
-        "cons_disc_alloc": 0.025221330039119,
-        "cons_staples_alloc": 0.091208564957793,
-        "energy_alloc": 0.024088943792465,
-        "financials_alloc": 0.169343215976941,
-        "health_care_alloc": 0.121988882025942,
-        "industrials_alloc": 0.185814288655549,
-        "materials_alloc": 0.058369363804818,
-        "real_estate_alloc": 0.008647313156269,
-        "technology_alloc": 0.18035824583076,
-        "utilities_alloc": 0.092443895408689,
-        "sector_diversification_score": 7.07254478072884
-      }
-    },
-    {
       "ticker": "AKRE",
       "metrics": {
         "comm_services_alloc": 0,
@@ -821,6 +787,23 @@
         "technology_alloc": 0.194698262877799,
         "utilities_alloc": 0,
         "sector_diversification_score": 6.61797369213776
+      }
+    },
+    {
+      "ticker": "ASCI",
+      "metrics": {
+        "comm_services_alloc": null,
+        "cons_disc_alloc": null,
+        "cons_staples_alloc": null,
+        "energy_alloc": null,
+        "financials_alloc": null,
+        "health_care_alloc": null,
+        "industrials_alloc": null,
+        "materials_alloc": null,
+        "real_estate_alloc": null,
+        "technology_alloc": null,
+        "utilities_alloc": null,
+        "sector_diversification_score": null
       }
     },
     {
@@ -2014,23 +1997,6 @@
       }
     },
     {
-      "ticker": "BKSE",
-      "metrics": {
-        "comm_services_alloc": 0.018209255533199,
-        "cons_disc_alloc": 0.135814889336016,
-        "cons_staples_alloc": 0.026659959758551,
-        "energy_alloc": 0.060663983903421,
-        "financials_alloc": 0.163983903420523,
-        "health_care_alloc": 0.132897384305835,
-        "industrials_alloc": 0.15,
-        "materials_alloc": 0.045472837022133,
-        "real_estate_alloc": 0.070925553319919,
-        "technology_alloc": 0.163883299798792,
-        "utilities_alloc": 0.03148893360161,
-        "sector_diversification_score": 7.10886317907445
-      }
-    },
-    {
       "ticker": "BLCR",
       "metrics": {
         "comm_services_alloc": 0.11850683491062,
@@ -2181,23 +2147,6 @@
         "technology_alloc": 0.140044224491945,
         "utilities_alloc": 0,
         "sector_diversification_score": 6.71718437401285
-      }
-    },
-    {
-      "ticker": "BSVO",
-      "metrics": {
-        "comm_services_alloc": 0.038255778742303,
-        "cons_disc_alloc": 0.158675683859897,
-        "cons_staples_alloc": 0.04956091652367,
-        "energy_alloc": 0.134046633693348,
-        "financials_alloc": 0.337135358837185,
-        "health_care_alloc": 0.034722923185626,
-        "industrials_alloc": 0.132532552740486,
-        "materials_alloc": 0.054305036842636,
-        "real_estate_alloc": 0.00646007873221,
-        "technology_alloc": 0.054305036842636,
-        "utilities_alloc": 0,
-        "sector_diversification_score": 6.05233673160392
       }
     },
     {
@@ -3051,23 +3000,6 @@
       }
     },
     {
-      "ticker": "CPTL",
-      "metrics": {
-        "comm_services_alloc": null,
-        "cons_disc_alloc": null,
-        "cons_staples_alloc": null,
-        "energy_alloc": null,
-        "financials_alloc": null,
-        "health_care_alloc": null,
-        "industrials_alloc": null,
-        "materials_alloc": null,
-        "real_estate_alloc": null,
-        "technology_alloc": null,
-        "utilities_alloc": null,
-        "sector_diversification_score": null
-      }
-    },
-    {
       "ticker": "CRBN",
       "metrics": {
         "comm_services_alloc": 0.089400264738825,
@@ -3408,23 +3340,6 @@
       }
     },
     {
-      "ticker": "DCOR",
-      "metrics": {
-        "comm_services_alloc": 0.081616079585832,
-        "cons_disc_alloc": 0.098873210841543,
-        "cons_staples_alloc": 0.048218454979192,
-        "energy_alloc": 0.048015429905595,
-        "financials_alloc": 0.145264440158366,
-        "health_care_alloc": 0.086894731499344,
-        "industrials_alloc": 0.12414983250432,
-        "materials_alloc": 0.031773424017868,
-        "real_estate_alloc": 0.001725713125571,
-        "technology_alloc": 0.30971474977161,
-        "utilities_alloc": 0.023753933610802,
-        "sector_diversification_score": 6.88777789056941
-      }
-    },
-    {
       "ticker": "DDIV",
       "metrics": {
         "comm_services_alloc": 0.022845691382766,
@@ -3629,23 +3544,6 @@
       }
     },
     {
-      "ticker": "DFAC",
-      "metrics": {
-        "comm_services_alloc": 0.070026310463468,
-        "cons_disc_alloc": 0.101396478445657,
-        "cons_staples_alloc": 0.048168386966201,
-        "energy_alloc": 0.050698239222829,
-        "financials_alloc": 0.146023072252577,
-        "health_care_alloc": 0.092086622141265,
-        "industrials_alloc": 0.134183363691558,
-        "materials_alloc": 0.035114349321999,
-        "real_estate_alloc": 0.002327464076098,
-        "technology_alloc": 0.30155838899008,
-        "utilities_alloc": 0.018417324428253,
-        "sector_diversification_score": 6.82504553734066
-      }
-    },
-    {
       "ticker": "DFAE",
       "metrics": {
         "comm_services_alloc": 0.057023311416616,
@@ -3694,57 +3592,6 @@
         "technology_alloc": 0,
         "utilities_alloc": 0,
         "sector_diversification_score": 1
-      }
-    },
-    {
-      "ticker": "DFAS",
-      "metrics": {
-        "comm_services_alloc": 0.024299253881831,
-        "cons_disc_alloc": 0.133696309739866,
-        "cons_staples_alloc": 0.042044767090139,
-        "energy_alloc": 0.059991933857632,
-        "financials_alloc": 0.195603952409759,
-        "health_care_alloc": 0.123008671103044,
-        "industrials_alloc": 0.190260133091348,
-        "materials_alloc": 0.051018350473886,
-        "real_estate_alloc": 0.006251260334745,
-        "technology_alloc": 0.146702964307319,
-        "utilities_alloc": 0.027122403710425,
-        "sector_diversification_score": 6.68620689655173
-      }
-    },
-    {
-      "ticker": "DFAT",
-      "metrics": {
-        "comm_services_alloc": 0.016891212547758,
-        "cons_disc_alloc": 0.144078021315101,
-        "cons_staples_alloc": 0.067464307259199,
-        "energy_alloc": 0.099738588377236,
-        "financials_alloc": 0.282425095515785,
-        "health_care_alloc": 0.068067564850191,
-        "industrials_alloc": 0.168409410818418,
-        "materials_alloc": 0.050372008847778,
-        "real_estate_alloc": 0.008345063342047,
-        "technology_alloc": 0.089985923989543,
-        "utilities_alloc": 0.004222803136939,
-        "sector_diversification_score": 6.72295395133723
-      }
-    },
-    {
-      "ticker": "DFAU",
-      "metrics": {
-        "comm_services_alloc": 0.092741524992363,
-        "cons_disc_alloc": 0.100376667006004,
-        "cons_staples_alloc": 0.045200040720756,
-        "energy_alloc": 0.038684719535783,
-        "financials_alloc": 0.127659574468082,
-        "health_care_alloc": 0.082764939427871,
-        "industrials_alloc": 0.108011809019645,
-        "materials_alloc": 0.025654077165835,
-        "real_estate_alloc": 0.001323424615698,
-        "technology_alloc": 0.354270589432953,
-        "utilities_alloc": 0.023312633614985,
-        "sector_diversification_score": 6.74770436730131
       }
     },
     {
@@ -3901,23 +3748,6 @@
       }
     },
     {
-      "ticker": "DFSU",
-      "metrics": {
-        "comm_services_alloc": 0.098017510314983,
-        "cons_disc_alloc": 0.109288517661265,
-        "cons_staples_alloc": 0.042668813525208,
-        "energy_alloc": 0.017510314984402,
-        "financials_alloc": 0.164838482439367,
-        "health_care_alloc": 0.103954915970614,
-        "industrials_alloc": 0.13032102244138,
-        "materials_alloc": 0.026064204488276,
-        "real_estate_alloc": 0.002213947871591,
-        "technology_alloc": 0.295964576834051,
-        "utilities_alloc": 0.009157693468854,
-        "sector_diversification_score": 6.46638824594952
-      }
-    },
-    {
       "ticker": "DFSV",
       "metrics": {
         "comm_services_alloc": 0.024380374304502,
@@ -3949,23 +3779,6 @@
         "technology_alloc": 0.614420387444318,
         "utilities_alloc": 0,
         "sector_diversification_score": 4.79831140578059
-      }
-    },
-    {
-      "ticker": "DFUS",
-      "metrics": {
-        "comm_services_alloc": 0.096436909958383,
-        "cons_disc_alloc": 0.094914221906409,
-        "cons_staples_alloc": 0.045274591412041,
-        "energy_alloc": 0.032890061922649,
-        "financials_alloc": 0.122221094305151,
-        "health_care_alloc": 0.086082631204957,
-        "industrials_alloc": 0.10202009948229,
-        "materials_alloc": 0.022332758095626,
-        "real_estate_alloc": 0.000913612831185,
-        "technology_alloc": 0.374175210638527,
-        "utilities_alloc": 0.022738808242819,
-        "sector_diversification_score": 6.68130139072165
       }
     },
     {
@@ -5023,23 +4836,6 @@
       }
     },
     {
-      "ticker": "DXUV",
-      "metrics": {
-        "comm_services_alloc": 0.06784423926134,
-        "cons_disc_alloc": 0.105981533520672,
-        "cons_staples_alloc": 0.052388598956242,
-        "energy_alloc": 0.061822561220392,
-        "financials_alloc": 0.165796868727417,
-        "health_care_alloc": 0.085307105580087,
-        "industrials_alloc": 0.156061822561219,
-        "materials_alloc": 0.041047771979124,
-        "real_estate_alloc": 0.003010839020474,
-        "technology_alloc": 0.255921316740262,
-        "utilities_alloc": 0.004817342432758,
-        "sector_diversification_score": 6.83076073865919
-      }
-    },
-    {
       "ticker": "DYNF",
       "metrics": {
         "comm_services_alloc": 0.102764423076923,
@@ -5122,40 +4918,6 @@
         "technology_alloc": 0.072613888595286,
         "utilities_alloc": 0.151463904449847,
         "sector_diversification_score": 5.89325652679421
-      }
-    },
-    {
-      "ticker": "EBI",
-      "metrics": {
-        "comm_services_alloc": 0.079963789981895,
-        "cons_disc_alloc": 0.106216053108026,
-        "cons_staples_alloc": 0.047374773687387,
-        "energy_alloc": 0.088312210822772,
-        "financials_alloc": 0.155602494467913,
-        "health_care_alloc": 0.065882116274391,
-        "industrials_alloc": 0.116676725005028,
-        "materials_alloc": 0.049788774894387,
-        "real_estate_alloc": 0.000804667069,
-        "technology_alloc": 0.275497887748943,
-        "utilities_alloc": 0.013880506940253,
-        "sector_diversification_score": 7.12546771273386
-      }
-    },
-    {
-      "ticker": "EBIT",
-      "metrics": {
-        "comm_services_alloc": 0.036492701459708,
-        "cons_disc_alloc": 0.147070585882824,
-        "cons_staples_alloc": 0.028594281143771,
-        "energy_alloc": 0.111777644471106,
-        "financials_alloc": 0.260647870425915,
-        "health_care_alloc": 0.043591281743651,
-        "industrials_alloc": 0.149370125974806,
-        "materials_alloc": 0.042891421715657,
-        "real_estate_alloc": 0.075284943011398,
-        "technology_alloc": 0.076884623075385,
-        "utilities_alloc": 0.027394521095781,
-        "sector_diversification_score": 6.97822435512897
       }
     },
     {
@@ -6111,23 +5873,6 @@
       }
     },
     {
-      "ticker": "ESGV",
-      "metrics": {
-        "comm_services_alloc": 0.119520306358963,
-        "cons_disc_alloc": 0.11589237125869,
-        "cons_staples_alloc": 0.036077799052705,
-        "energy_alloc": 0,
-        "financials_alloc": 0.116093923208706,
-        "health_care_alloc": 0.095233296382141,
-        "industrials_alloc": 0.046256172528469,
-        "materials_alloc": 0.018542779401391,
-        "real_estate_alloc": 0.025798649601935,
-        "technology_alloc": 0.425073062581877,
-        "utilities_alloc": 0.001511639625113,
-        "sector_diversification_score": 5.86905169807522
-      }
-    },
-    {
       "ticker": "ESIM",
       "metrics": {
         "comm_services_alloc": 0.008699434536755,
@@ -6397,40 +6142,6 @@
         "technology_alloc": 0.258267559196724,
         "utilities_alloc": 0.009791187930862,
         "sector_diversification_score": 5.91155959636326
-      }
-    },
-    {
-      "ticker": "FBCG",
-      "metrics": {
-        "comm_services_alloc": 0.135762915498598,
-        "cons_disc_alloc": 0.16079295154185,
-        "cons_staples_alloc": 0.011413696435723,
-        "energy_alloc": 0.003404084901882,
-        "financials_alloc": 0.02362835402483,
-        "health_care_alloc": 0.055466559871846,
-        "industrials_alloc": 0.060072086503805,
-        "materials_alloc": 0.005106127352823,
-        "real_estate_alloc": 0.005606728073688,
-        "technology_alloc": 0.534941930316379,
-        "utilities_alloc": 0.003804565478574,
-        "sector_diversification_score": 4.4681718061674
-      }
-    },
-    {
-      "ticker": "FBCV",
-      "metrics": {
-        "comm_services_alloc": 0.089976877450488,
-        "cons_disc_alloc": 0.097918970543883,
-        "cons_staples_alloc": 0.085955564491807,
-        "energy_alloc": 0.079823062229818,
-        "financials_alloc": 0.214034382225797,
-        "health_care_alloc": 0.129385744445561,
-        "industrials_alloc": 0.109882376595959,
-        "materials_alloc": 0.038101940283503,
-        "real_estate_alloc": 0.007338896149593,
-        "technology_alloc": 0.126369759726551,
-        "utilities_alloc": 0.021212425857042,
-        "sector_diversification_score": 7.79184678797627
       }
     },
     {
@@ -7148,23 +6859,6 @@
       }
     },
     {
-      "ticker": "FESM",
-      "metrics": {
-        "comm_services_alloc": 0.026586533564225,
-        "cons_disc_alloc": 0.083936029336865,
-        "cons_staples_alloc": 0.009065906081288,
-        "energy_alloc": 0.050830192523174,
-        "financials_alloc": 0.153611082815524,
-        "health_care_alloc": 0.163186309463176,
-        "industrials_alloc": 0.186513191402669,
-        "materials_alloc": 0.039625140063156,
-        "real_estate_alloc": 0.038606498930427,
-        "technology_alloc": 0.22878679841092,
-        "utilities_alloc": 0.019252317408577,
-        "sector_diversification_score": 6.35223591728634
-      }
-    },
-    {
       "ticker": "FEUS",
       "metrics": {
         "comm_services_alloc": 0.100190361687206,
@@ -7349,23 +7043,6 @@
         "technology_alloc": 0.22402327514547,
         "utilities_alloc": 0,
         "sector_diversification_score": 5.66168952618454
-      }
-    },
-    {
-      "ticker": "FFSM",
-      "metrics": {
-        "comm_services_alloc": 0.0083543029693,
-        "cons_disc_alloc": 0.121389028686462,
-        "cons_staples_alloc": 0.03704076497232,
-        "energy_alloc": 0.044287871162557,
-        "financials_alloc": 0.161751383995974,
-        "health_care_alloc": 0.120080523402114,
-        "industrials_alloc": 0.247408152994464,
-        "materials_alloc": 0.030800201308505,
-        "real_estate_alloc": 0.053145445395068,
-        "technology_alloc": 0.153497735279316,
-        "utilities_alloc": 0.022244589833921,
-        "sector_diversification_score": 6.53914443885254
       }
     },
     {
@@ -7726,23 +7403,6 @@
       }
     },
     {
-      "ticker": "FMAG",
-      "metrics": {
-        "comm_services_alloc": 0.102789721027897,
-        "cons_disc_alloc": 0.113388661133887,
-        "cons_staples_alloc": 0.015798420157984,
-        "energy_alloc": 0,
-        "financials_alloc": 0.081991800819918,
-        "health_care_alloc": 0.030896910308969,
-        "industrials_alloc": 0.154984501549845,
-        "materials_alloc": 0.036096390360964,
-        "real_estate_alloc": 0.011598840115988,
-        "technology_alloc": 0.452454754524548,
-        "utilities_alloc": 0,
-        "sector_diversification_score": 5.44618538146185
-      }
-    },
-    {
       "ticker": "FMAT",
       "metrics": {
         "comm_services_alloc": 0,
@@ -7757,40 +7417,6 @@
         "technology_alloc": 0,
         "utilities_alloc": 0,
         "sector_diversification_score": 1.32563176895307
-      }
-    },
-    {
-      "ticker": "FMCE",
-      "metrics": {
-        "comm_services_alloc": 0.03049456642271,
-        "cons_disc_alloc": 0.078731426036815,
-        "cons_staples_alloc": 0.047904191616767,
-        "energy_alloc": 0.024173874473276,
-        "financials_alloc": 0.257595919272566,
-        "health_care_alloc": 0.104790419161677,
-        "industrials_alloc": 0.141162120204036,
-        "materials_alloc": 0.042137946329563,
-        "real_estate_alloc": 0,
-        "technology_alloc": 0.27300953648259,
-        "utilities_alloc": 0,
-        "sector_diversification_score": 5.91207584830339
-      }
-    },
-    {
-      "ticker": "FMCX",
-      "metrics": {
-        "comm_services_alloc": 0.0530749789385,
-        "cons_disc_alloc": 0.176916596461668,
-        "cons_staples_alloc": 0,
-        "energy_alloc": 0,
-        "financials_alloc": 0.136057287278854,
-        "health_care_alloc": 0.09298652064027,
-        "industrials_alloc": 0.19092249368155,
-        "materials_alloc": 0.038331929233361,
-        "real_estate_alloc": 0,
-        "technology_alloc": 0.311710193765796,
-        "utilities_alloc": 0,
-        "sector_diversification_score": 5.50492839090143
       }
     },
     {
@@ -7893,23 +7519,6 @@
         "technology_alloc": 0.149839421918909,
         "utilities_alloc": 0.026696105981534,
         "sector_diversification_score": 7.33829787234042
-      }
-    },
-    {
-      "ticker": "FNDB",
-      "metrics": {
-        "comm_services_alloc": 0.08868285800665,
-        "cons_disc_alloc": 0.088884409956665,
-        "cons_staples_alloc": 0.068023783130101,
-        "energy_alloc": 0.086264234606468,
-        "financials_alloc": 0.143605764385769,
-        "health_care_alloc": 0.116194699183712,
-        "industrials_alloc": 0.103194598407737,
-        "materials_alloc": 0.038899526352917,
-        "real_estate_alloc": 0.022573818401693,
-        "technology_alloc": 0.214753602741103,
-        "utilities_alloc": 0.028922704827169,
-        "sector_diversification_score": 7.88028821928853
       }
     },
     {
@@ -8882,23 +8491,6 @@
       }
     },
     {
-      "ticker": "GABF",
-      "metrics": {
-        "comm_services_alloc": 0,
-        "cons_disc_alloc": 0,
-        "cons_staples_alloc": 0,
-        "energy_alloc": 0,
-        "financials_alloc": 0.884137191854234,
-        "health_care_alloc": 0,
-        "industrials_alloc": 0.051982851018221,
-        "materials_alloc": 0,
-        "real_estate_alloc": 0.045016077170418,
-        "technology_alloc": 0.018863879957128,
-        "utilities_alloc": 0,
-        "sector_diversification_score": 2.14704180064309
-      }
-    },
-    {
       "ticker": "GARA",
       "metrics": {
         "comm_services_alloc": 0,
@@ -8930,23 +8522,6 @@
         "technology_alloc": 0.536114445778311,
         "utilities_alloc": 0.009603841536615,
         "sector_diversification_score": 5.37205882352941
-      }
-    },
-    {
-      "ticker": "GCAD",
-      "metrics": {
-        "comm_services_alloc": 0.015215379870464,
-        "cons_disc_alloc": 0.061169939344094,
-        "cons_staples_alloc": 0,
-        "energy_alloc": 0,
-        "financials_alloc": 0,
-        "health_care_alloc": 0,
-        "industrials_alloc": 0.916418217333196,
-        "materials_alloc": 0,
-        "real_estate_alloc": 0,
-        "technology_alloc": 0.007196463452246,
-        "utilities_alloc": 0,
-        "sector_diversification_score": 1.82745964840136
       }
     },
     {
@@ -9256,23 +8831,6 @@
       }
     },
     {
-      "ticker": "GQGU",
-      "metrics": {
-        "comm_services_alloc": 0.122338204592902,
-        "cons_disc_alloc": 0,
-        "cons_staples_alloc": 0.179540709812109,
-        "energy_alloc": 0.19446764091858,
-        "financials_alloc": 0.20678496868476,
-        "health_care_alloc": 0.089665970772443,
-        "industrials_alloc": 0,
-        "materials_alloc": 0,
-        "real_estate_alloc": 0,
-        "technology_alloc": 0,
-        "utilities_alloc": 0.207202505219207,
-        "sector_diversification_score": 5.48769311064718
-      }
-    },
-    {
       "ticker": "GQQQ",
       "metrics": {
         "comm_services_alloc": 0.112225260812316,
@@ -9542,23 +9100,6 @@
         "technology_alloc": 0.374368814380933,
         "utilities_alloc": 0.007170268632599,
         "sector_diversification_score": 6.59159765703899
-      }
-    },
-    {
-      "ticker": "GSSC",
-      "metrics": {
-        "comm_services_alloc": 0.022100020751193,
-        "cons_disc_alloc": 0.101473334716745,
-        "cons_staples_alloc": 0.036107076156879,
-        "energy_alloc": 0.03921975513592,
-        "financials_alloc": 0.169537248391781,
-        "health_care_alloc": 0.170886075949366,
-        "industrials_alloc": 0.179809089022617,
-        "materials_alloc": 0.037040879850591,
-        "real_estate_alloc": 0.042228678148993,
-        "technology_alloc": 0.180950404648266,
-        "utilities_alloc": 0.02064743722764,
-        "sector_diversification_score": 6.55370408798508
       }
     },
     {
@@ -10106,6 +9647,23 @@
       }
     },
     {
+      "ticker": "IAK",
+      "metrics": {
+        "comm_services_alloc": 0,
+        "cons_disc_alloc": 0,
+        "cons_staples_alloc": 0,
+        "energy_alloc": 0,
+        "financials_alloc": 0.992987251832832,
+        "health_care_alloc": 0.007012748167168,
+        "industrials_alloc": 0,
+        "materials_alloc": 0,
+        "real_estate_alloc": 0,
+        "technology_alloc": 0,
+        "utilities_alloc": 0,
+        "sector_diversification_score": 1.06942620685497
+      }
+    },
+    {
       "ticker": "IAT",
       "metrics": {
         "comm_services_alloc": 0,
@@ -10630,6 +10188,23 @@
         "technology_alloc": 0,
         "utilities_alloc": 0,
         "sector_diversification_score": 1
+      }
+    },
+    {
+      "ticker": "IJK",
+      "metrics": {
+        "comm_services_alloc": 0.023977882289303,
+        "cons_disc_alloc": 0.07868415648681,
+        "cons_staples_alloc": 0.016193610105229,
+        "energy_alloc": 0.032346150186067,
+        "financials_alloc": 0.073335036236784,
+        "health_care_alloc": 0.143350412453233,
+        "industrials_alloc": 0.297148638428521,
+        "materials_alloc": 0.038101963848361,
+        "real_estate_alloc": 0.056401163984594,
+        "technology_alloc": 0.221970459633675,
+        "utilities_alloc": 0.018490526347422,
+        "sector_diversification_score": 6.14155184589726
       }
     },
     {
@@ -11602,23 +11177,6 @@
       }
     },
     {
-      "ticker": "IWFG",
-      "metrics": {
-        "comm_services_alloc": 0.131685575364668,
-        "cons_disc_alloc": 0.110615883306321,
-        "cons_staples_alloc": 0,
-        "energy_alloc": 0,
-        "financials_alloc": 0.045887358184765,
-        "health_care_alloc": 0.055004051863857,
-        "industrials_alloc": 0.114971636952998,
-        "materials_alloc": 0,
-        "real_estate_alloc": 0,
-        "technology_alloc": 0.54183549432739,
-        "utilities_alloc": 0,
-        "sector_diversification_score": 4.69882495948136
-      }
-    },
-    {
       "ticker": "IWL",
       "metrics": {
         "comm_services_alloc": 0.111300511380728,
@@ -11633,23 +11191,6 @@
         "technology_alloc": 0.398676426351149,
         "utilities_alloc": 0.012233029178783,
         "sector_diversification_score": 6.41398776697082
-      }
-    },
-    {
-      "ticker": "IWLG",
-      "metrics": {
-        "comm_services_alloc": 0.146486540981954,
-        "cons_disc_alloc": 0.089525153745337,
-        "cons_staples_alloc": 0,
-        "energy_alloc": 0,
-        "financials_alloc": 0.058473636455288,
-        "health_care_alloc": 0.052122189736869,
-        "industrials_alloc": 0.13196894848271,
-        "materials_alloc": 0.010989010989011,
-        "real_estate_alloc": 0,
-        "technology_alloc": 0.510434519608832,
-        "utilities_alloc": 0,
-        "sector_diversification_score": 4.8899889101724
       }
     },
     {
@@ -13166,6 +12707,23 @@
       }
     },
     {
+      "ticker": "LCTD",
+      "metrics": {
+        "comm_services_alloc": null,
+        "cons_disc_alloc": null,
+        "cons_staples_alloc": null,
+        "energy_alloc": null,
+        "financials_alloc": null,
+        "health_care_alloc": null,
+        "industrials_alloc": null,
+        "materials_alloc": null,
+        "real_estate_alloc": null,
+        "technology_alloc": null,
+        "utilities_alloc": null,
+        "sector_diversification_score": null
+      }
+    },
+    {
       "ticker": "LCTU",
       "metrics": {
         "comm_services_alloc": 0.095295536791315,
@@ -13316,23 +12874,6 @@
         "technology_alloc": 0.29212299915754,
         "utilities_alloc": 0.032224094355518,
         "sector_diversification_score": 6.07937026116259
-      }
-    },
-    {
-      "ticker": "LOPP",
-      "metrics": {
-        "comm_services_alloc": 0.014405637889937,
-        "cons_disc_alloc": 0.045289667323039,
-        "cons_staples_alloc": 0,
-        "energy_alloc": 0.037620478806094,
-        "financials_alloc": 0.02487304383874,
-        "health_care_alloc": 0.033785884547622,
-        "industrials_alloc": 0.501606384081252,
-        "materials_alloc": 0.06218260959685,
-        "real_estate_alloc": 0.030573116385118,
-        "technology_alloc": 0.084982899782361,
-        "utilities_alloc": 0.16468027774899,
-        "sector_diversification_score": 5.20376204788061
       }
     },
     {
@@ -14526,23 +14067,6 @@
       }
     },
     {
-      "ticker": "NELS",
-      "metrics": {
-        "comm_services_alloc": 0.10141485076939,
-        "cons_disc_alloc": 0.092533305793659,
-        "cons_staples_alloc": 0.051533615614995,
-        "energy_alloc": 0.025405349581741,
-        "financials_alloc": 0.117732107817825,
-        "health_care_alloc": 0.101208303211814,
-        "industrials_alloc": 0.096354435608799,
-        "materials_alloc": 0.022720231333265,
-        "real_estate_alloc": 0.013115769906021,
-        "technology_alloc": 0.377982030362491,
-        "utilities_alloc": 0,
-        "sector_diversification_score": 6.61647216771662
-      }
-    },
-    {
       "ticker": "NETL",
       "metrics": {
         "comm_services_alloc": 0,
@@ -15087,23 +14611,6 @@
       }
     },
     {
-      "ticker": "OMFS",
-      "metrics": {
-        "comm_services_alloc": 0.009431122704926,
-        "cons_disc_alloc": 0.08227149593659,
-        "cons_staples_alloc": 0.037523828634494,
-        "energy_alloc": 0.035517206782382,
-        "financials_alloc": 0.239991973512589,
-        "health_care_alloc": 0.13855723888833,
-        "industrials_alloc": 0.147486706130228,
-        "materials_alloc": 0.027992374836962,
-        "real_estate_alloc": 0.116083074144676,
-        "technology_alloc": 0.154409551520014,
-        "utilities_alloc": 0.010735426908799,
-        "sector_diversification_score": 6.61436741246116
-      }
-    },
-    {
       "ticker": "ONEO",
       "metrics": {
         "comm_services_alloc": 0.034839357429719,
@@ -15118,23 +14625,6 @@
         "technology_alloc": 0.149598393574297,
         "utilities_alloc": 0.057730923694779,
         "sector_diversification_score": 7.72207831325301
-      }
-    },
-    {
-      "ticker": "ONEQ",
-      "metrics": {
-        "comm_services_alloc": 0.141051164642642,
-        "cons_disc_alloc": 0.115966553852279,
-        "cons_staples_alloc": 0.044395779414692,
-        "energy_alloc": 0.004578936890305,
-        "financials_alloc": 0.028568584511248,
-        "health_care_alloc": 0.047382042604021,
-        "industrials_alloc": 0.06062114274338,
-        "materials_alloc": 0.008560621142743,
-        "real_estate_alloc": 0.005673900059725,
-        "technology_alloc": 0.535337447740393,
-        "utilities_alloc": 0.007863826398567,
-        "sector_diversification_score": 4.85568385427037
       }
     },
     {
@@ -15461,23 +14951,6 @@
       }
     },
     {
-      "ticker": "PCLG",
-      "metrics": {
-        "comm_services_alloc": 0.086245657061108,
-        "cons_disc_alloc": 0.116492949110975,
-        "cons_staples_alloc": 0,
-        "energy_alloc": 0,
-        "financials_alloc": 0.145718373186184,
-        "health_care_alloc": 0.132331902718169,
-        "industrials_alloc": 0.039648477416718,
-        "materials_alloc": 0,
-        "real_estate_alloc": 0.026670754138565,
-        "technology_alloc": 0.452891886368281,
-        "utilities_alloc": 0,
-        "sector_diversification_score": 5.21039239730227
-      }
-    },
-    {
       "ticker": "PDN",
       "metrics": {
         "comm_services_alloc": 0.039225779882633,
@@ -15713,23 +15186,6 @@
         "technology_alloc": 0.296021798365123,
         "utilities_alloc": 0,
         "sector_diversification_score": 5.82350953678474
-      }
-    },
-    {
-      "ticker": "PGRO",
-      "metrics": {
-        "comm_services_alloc": 0.183702644746247,
-        "cons_disc_alloc": 0.07730011232513,
-        "cons_staples_alloc": 0.019503727152047,
-        "energy_alloc": 0,
-        "financials_alloc": 0.057387930154192,
-        "health_care_alloc": 0.073521903400388,
-        "industrials_alloc": 0.063412641682835,
-        "materials_alloc": 0.023588277340958,
-        "real_estate_alloc": 0,
-        "technology_alloc": 0.501582763198203,
-        "utilities_alloc": 0,
-        "sector_diversification_score": 5.01567446134994
       }
     },
     {
@@ -16121,23 +15577,6 @@
         "technology_alloc": 0.203260315843095,
         "utilities_alloc": 0.031380539989811,
         "sector_diversification_score": 7.62974019358127
-      }
-    },
-    {
-      "ticker": "PRFZ",
-      "metrics": {
-        "comm_services_alloc": 0.025648762824382,
-        "cons_disc_alloc": 0.109736471534903,
-        "cons_staples_alloc": 0.028062764031382,
-        "energy_alloc": 0.046469523234762,
-        "financials_alloc": 0.131764232548784,
-        "health_care_alloc": 0.170488835244419,
-        "industrials_alloc": 0.168577750955543,
-        "materials_alloc": 0.034399517199759,
-        "real_estate_alloc": 0.070609535304768,
-        "technology_alloc": 0.199255682961176,
-        "utilities_alloc": 0.014986924160129,
-        "sector_diversification_score": 6.77975256487627
       }
     },
     {
@@ -16614,23 +16053,6 @@
         "technology_alloc": 0,
         "utilities_alloc": 0.856813627254509,
         "sector_diversification_score": 2.41754509018036
-      }
-    },
-    {
-      "ticker": "PVAL",
-      "metrics": {
-        "comm_services_alloc": 0.043583779957529,
-        "cons_disc_alloc": 0.099706744868035,
-        "cons_staples_alloc": 0.079886742845586,
-        "energy_alloc": 0.074122762665588,
-        "financials_alloc": 0.18697542724239,
-        "health_care_alloc": 0.116493073111538,
-        "industrials_alloc": 0.114976236222065,
-        "materials_alloc": 0.046617453736475,
-        "real_estate_alloc": 0.020426736778238,
-        "technology_alloc": 0.173323895237132,
-        "utilities_alloc": 0.043887147335423,
-        "sector_diversification_score": 7.65439377085651
       }
     },
     {
@@ -17688,23 +17110,6 @@
       }
     },
     {
-      "ticker": "RDVI",
-      "metrics": {
-        "comm_services_alloc": 0.039415322580645,
-        "cons_disc_alloc": 0.105745967741935,
-        "cons_staples_alloc": 0.028427419354839,
-        "energy_alloc": 0.022379032258065,
-        "financials_alloc": 0.396471774193548,
-        "health_care_alloc": 0.032157258064516,
-        "industrials_alloc": 0.149193548387097,
-        "materials_alloc": 0,
-        "real_estate_alloc": 0,
-        "technology_alloc": 0.226209677419355,
-        "utilities_alloc": 0,
-        "sector_diversification_score": 4.91155241935484
-      }
-    },
-    {
       "ticker": "RDVY",
       "metrics": {
         "comm_services_alloc": 0.041333066453163,
@@ -17957,23 +17362,6 @@
         "technology_alloc": 0.317034365719134,
         "utilities_alloc": 0.024925753075944,
         "sector_diversification_score": 6.92054518455664
-      }
-    },
-    {
-      "ticker": "RFG",
-      "metrics": {
-        "comm_services_alloc": 0.017120544653584,
-        "cons_disc_alloc": 0.067280736884261,
-        "cons_staples_alloc": 0.023327993592311,
-        "energy_alloc": 0.0452543051662,
-        "financials_alloc": 0.034040849018823,
-        "health_care_alloc": 0.215358430116139,
-        "industrials_alloc": 0.306167400881057,
-        "materials_alloc": 0.036643972767321,
-        "real_estate_alloc": 0.021425710853024,
-        "technology_alloc": 0.211453744493392,
-        "utilities_alloc": 0.021926311573889,
-        "sector_diversification_score": 5.44350220264317
       }
     },
     {
@@ -18538,23 +17926,6 @@
       }
     },
     {
-      "ticker": "RUNN",
-      "metrics": {
-        "comm_services_alloc": 0.022557991061928,
-        "cons_disc_alloc": 0.088210257501596,
-        "cons_staples_alloc": 0,
-        "energy_alloc": 0,
-        "financials_alloc": 0.136092785699085,
-        "health_care_alloc": 0.141519472228134,
-        "industrials_alloc": 0.454564801021494,
-        "materials_alloc": 0.021600340497978,
-        "real_estate_alloc": 0,
-        "technology_alloc": 0.135454351989785,
-        "utilities_alloc": 0,
-        "sector_diversification_score": 5.01044903170888
-      }
-    },
-    {
       "ticker": "RUSC",
       "metrics": {
         "comm_services_alloc": 0.023084677419355,
@@ -18603,23 +17974,6 @@
         "technology_alloc": 0.238903852910177,
         "utilities_alloc": 0,
         "sector_diversification_score": 4.44632860990748
-      }
-    },
-    {
-      "ticker": "RWJ",
-      "metrics": {
-        "comm_services_alloc": 0.029838790427556,
-        "cons_disc_alloc": 0.244818263742867,
-        "cons_staples_alloc": 0.069089816761791,
-        "energy_alloc": 0.068789426254131,
-        "financials_alloc": 0.108641233603685,
-        "health_care_alloc": 0.113447481726245,
-        "industrials_alloc": 0.161409832782618,
-        "materials_alloc": 0.048563132071693,
-        "real_estate_alloc": 0.038349854811255,
-        "technology_alloc": 0.109242014619005,
-        "utilities_alloc": 0.007810153199159,
-        "sector_diversification_score": 7.19816761790326
       }
     },
     {
@@ -18841,40 +18195,6 @@
         "technology_alloc": 0.112489991993595,
         "utilities_alloc": 0.030024019215372,
         "sector_diversification_score": 6.47358887109688
-      }
-    },
-    {
-      "ticker": "SCHA",
-      "metrics": {
-        "comm_services_alloc": 0.023572076155939,
-        "cons_disc_alloc": 0.097612571773953,
-        "cons_staples_alloc": 0.02216178100131,
-        "energy_alloc": 0.041301500956987,
-        "financials_alloc": 0.15110305228166,
-        "health_care_alloc": 0.139216278835503,
-        "industrials_alloc": 0.159363352473058,
-        "materials_alloc": 0.042006648534302,
-        "real_estate_alloc": 0.059534602598974,
-        "technology_alloc": 0.242772237332534,
-        "utilities_alloc": 0.021355898055808,
-        "sector_diversification_score": 6.67833182230273
-      }
-    },
-    {
-      "ticker": "SCHB",
-      "metrics": {
-        "comm_services_alloc": 0.093340111845452,
-        "cons_disc_alloc": 0.093441789527201,
-        "cons_staples_alloc": 0.044026436197256,
-        "energy_alloc": 0.031621759023895,
-        "financials_alloc": 0.12018301982715,
-        "health_care_alloc": 0.086120996441283,
-        "industrials_alloc": 0.09974580579563,
-        "materials_alloc": 0.020742247076767,
-        "real_estate_alloc": 0.021453990849009,
-        "technology_alloc": 0.368174885612613,
-        "utilities_alloc": 0.021148957803763,
-        "sector_diversification_score": 6.82863243518044
       }
     },
     {
@@ -20085,23 +19405,6 @@
       }
     },
     {
-      "ticker": "SPIT",
-      "metrics": {
-        "comm_services_alloc": 0.126146095717884,
-        "cons_disc_alloc": 0.106801007556675,
-        "cons_staples_alloc": 0.009370277078086,
-        "energy_alloc": 0.0527959697733,
-        "financials_alloc": 0.048564231738035,
-        "health_care_alloc": 0.115062972292191,
-        "industrials_alloc": 0.118186397984887,
-        "materials_alloc": 0.005642317380353,
-        "real_estate_alloc": 0,
-        "technology_alloc": 0.41743073047859,
-        "utilities_alloc": 0,
-        "sector_diversification_score": 5.75209068010075
-      }
-    },
-    {
       "ticker": "SPLV",
       "metrics": {
         "comm_services_alloc": 0.007247106190237,
@@ -20612,23 +19915,6 @@
       }
     },
     {
-      "ticker": "STXK",
-      "metrics": {
-        "comm_services_alloc": 0.019576347756249,
-        "cons_disc_alloc": 0.135026603754643,
-        "cons_staples_alloc": 0.027306495331794,
-        "energy_alloc": 0.059532175484389,
-        "financials_alloc": 0.158317438008232,
-        "health_care_alloc": 0.129404678245156,
-        "industrials_alloc": 0.150486898905733,
-        "materials_alloc": 0.04387109727939,
-        "real_estate_alloc": 0.0724826824616,
-        "technology_alloc": 0.174480473848007,
-        "utilities_alloc": 0.029515108924807,
-        "sector_diversification_score": 7.09761068165846
-      }
-    },
-    {
       "ticker": "STXV",
       "metrics": {
         "comm_services_alloc": 0.041040522333921,
@@ -20711,6 +19997,23 @@
         "technology_alloc": 0.342013019529294,
         "utilities_alloc": 0.010015022533801,
         "sector_diversification_score": 6.74855282924386
+      }
+    },
+    {
+      "ticker": "SVAL",
+      "metrics": {
+        "comm_services_alloc": 0.031858945745242,
+        "cons_disc_alloc": 0.118248589863247,
+        "cons_staples_alloc": 0.045102057379378,
+        "energy_alloc": 0.103546646106399,
+        "financials_alloc": 0.22270725966806,
+        "health_care_alloc": 0.118624964492959,
+        "industrials_alloc": 0.133013431806192,
+        "materials_alloc": 0.047295377997809,
+        "real_estate_alloc": 0.043631051414195,
+        "technology_alloc": 0.101297528709978,
+        "utilities_alloc": 0.03467414681654,
+        "sector_diversification_score": 7.50535963559632
       }
     },
     {
@@ -21020,23 +20323,6 @@
       }
     },
     {
-      "ticker": "TEQI",
-      "metrics": {
-        "comm_services_alloc": 0.069101578308377,
-        "cons_disc_alloc": 0.038445973290166,
-        "cons_staples_alloc": 0.067887494941319,
-        "energy_alloc": 0.10259004451639,
-        "financials_alloc": 0.203763658437879,
-        "health_care_alloc": 0.126770538243626,
-        "industrials_alloc": 0.132942128692837,
-        "materials_alloc": 0.030959125859976,
-        "real_estate_alloc": 0.032881424524484,
-        "technology_alloc": 0.134257385673816,
-        "utilities_alloc": 0.060400647511129,
-        "sector_diversification_score": 7.56679481991097
-      }
-    },
-    {
       "ticker": "TEXN",
       "metrics": {
         "comm_services_alloc": 0.03399433427762,
@@ -21153,23 +20439,6 @@
         "technology_alloc": 0.224290578887628,
         "utilities_alloc": 0.025652667423383,
         "sector_diversification_score": 6.53188422247446
-      }
-    },
-    {
-      "ticker": "TILT",
-      "metrics": {
-        "comm_services_alloc": 0.075806451612901,
-        "cons_disc_alloc": 0.101310483870965,
-        "cons_staples_alloc": 0.043649193548386,
-        "energy_alloc": 0.041028225806451,
-        "financials_alloc": 0.167943548387092,
-        "health_care_alloc": 0.092036290322578,
-        "industrials_alloc": 0.103629032258062,
-        "materials_alloc": 0.027923387096774,
-        "real_estate_alloc": 0.029637096774193,
-        "technology_alloc": 0.295060483870964,
-        "utilities_alloc": 0.021975806451612,
-        "sector_diversification_score": 6.97619959677425
       }
     },
     {
@@ -21391,23 +20660,6 @@
         "technology_alloc": 0.166850939792944,
         "utilities_alloc": 0.017087144436627,
         "sector_diversification_score": 6.72303749120515
-      }
-    },
-    {
-      "ticker": "TMVE",
-      "metrics": {
-        "comm_services_alloc": 0.028597880876453,
-        "cons_disc_alloc": 0.103487295545726,
-        "cons_staples_alloc": 0.050612076946816,
-        "energy_alloc": 0.078078386997223,
-        "financials_alloc": 0.152556321366115,
-        "health_care_alloc": 0.076123855570415,
-        "industrials_alloc": 0.171793025408909,
-        "materials_alloc": 0.041456640263347,
-        "real_estate_alloc": 0.079312827898364,
-        "technology_alloc": 0.135479888900319,
-        "utilities_alloc": 0.082501800226314,
-        "sector_diversification_score": 8.02316634091143
       }
     },
     {
@@ -21666,23 +20918,6 @@
       }
     },
     {
-      "ticker": "TSCV",
-      "metrics": {
-        "comm_services_alloc": 0,
-        "cons_disc_alloc": 0.146754179058558,
-        "cons_staples_alloc": 0.049738488360168,
-        "energy_alloc": 0.053635524561583,
-        "financials_alloc": 0.207465900933238,
-        "health_care_alloc": 0.081427545892729,
-        "industrials_alloc": 0.18069941544457,
-        "materials_alloc": 0.095990154855912,
-        "real_estate_alloc": 0.053122756640345,
-        "technology_alloc": 0.085427135678392,
-        "utilities_alloc": 0.045738898574505,
-        "sector_diversification_score": 7.35399446210645
-      }
-    },
-    {
       "ticker": "TSEL",
       "metrics": {
         "comm_services_alloc": 0.188759493670886,
@@ -21714,40 +20949,6 @@
         "technology_alloc": 0,
         "utilities_alloc": 0,
         "sector_diversification_score": 3.3016467516819
-      }
-    },
-    {
-      "ticker": "TSME",
-      "metrics": {
-        "comm_services_alloc": 0,
-        "cons_disc_alloc": 0.151951951951952,
-        "cons_staples_alloc": 0.053953953953954,
-        "energy_alloc": 0,
-        "financials_alloc": 0.093393393393393,
-        "health_care_alloc": 0.085585585585586,
-        "industrials_alloc": 0.295495495495495,
-        "materials_alloc": 0.057957957957958,
-        "real_estate_alloc": 0,
-        "technology_alloc": 0.237837837837838,
-        "utilities_alloc": 0.023823823823824,
-        "sector_diversification_score": 5.89108108108108
-      }
-    },
-    {
-      "ticker": "TSPA",
-      "metrics": {
-        "comm_services_alloc": 0.110003022061046,
-        "cons_disc_alloc": 0.098116248614889,
-        "cons_staples_alloc": 0.046942681575501,
-        "energy_alloc": 0.035962526443034,
-        "financials_alloc": 0.127027299284779,
-        "health_care_alloc": 0.085625062959605,
-        "industrials_alloc": 0.08179711896847,
-        "materials_alloc": 0.020046338269366,
-        "real_estate_alloc": 0.01672207111917,
-        "technology_alloc": 0.353480406970887,
-        "utilities_alloc": 0.024277223733253,
-        "sector_diversification_score": 6.78259292837715
       }
     },
     {
@@ -22312,23 +21513,6 @@
       }
     },
     {
-      "ticker": "VB",
-      "metrics": {
-        "comm_services_alloc": 0.027840097899246,
-        "cons_disc_alloc": 0.099836834591068,
-        "cons_staples_alloc": 0.034774627778911,
-        "energy_alloc": 0.042219049561494,
-        "financials_alloc": 0.124107689169898,
-        "health_care_alloc": 0.112482153783399,
-        "industrials_alloc": 0.207322047725885,
-        "materials_alloc": 0.052824801142159,
-        "real_estate_alloc": 0.074852131348155,
-        "technology_alloc": 0.192739139302471,
-        "utilities_alloc": 0.031001427697329,
-        "sector_diversification_score": 7.20877014073013
-      }
-    },
-    {
       "ticker": "VBK",
       "metrics": {
         "comm_services_alloc": 0.035802469135803,
@@ -22343,23 +21527,6 @@
         "technology_alloc": 0.268312757201646,
         "utilities_alloc": 0.011111111111111,
         "sector_diversification_score": 5.95638888888889
-      }
-    },
-    {
-      "ticker": "VBR",
-      "metrics": {
-        "comm_services_alloc": 0.024944455665522,
-        "cons_disc_alloc": 0.114724298121591,
-        "cons_staples_alloc": 0.039083013532619,
-        "energy_alloc": 0.043324580892749,
-        "financials_alloc": 0.175419107251059,
-        "health_care_alloc": 0.083922439911128,
-        "industrials_alloc": 0.177236921833972,
-        "materials_alloc": 0.070995758432639,
-        "real_estate_alloc": 0.10452433851747,
-        "technology_alloc": 0.120076752171278,
-        "utilities_alloc": 0.045748333669965,
-        "sector_diversification_score": 7.64938396283581
       }
     },
     {
@@ -22411,23 +21578,6 @@
         "technology_alloc": 0,
         "utilities_alloc": 0,
         "sector_diversification_score": 1.06411086646807
-      }
-    },
-    {
-      "ticker": "VDIG",
-      "metrics": {
-        "comm_services_alloc": 0.034685598377282,
-        "cons_disc_alloc": 0.129817444219067,
-        "cons_staples_alloc": 0.071805273833671,
-        "energy_alloc": 0.0052738336714,
-        "financials_alloc": 0.252839756592292,
-        "health_care_alloc": 0.126470588235294,
-        "industrials_alloc": 0.101926977687627,
-        "materials_alloc": 0.043813387423935,
-        "real_estate_alloc": 0,
-        "technology_alloc": 0.233367139959432,
-        "utilities_alloc": 0,
-        "sector_diversification_score": 6.14022312373225
       }
     },
     {
@@ -22547,91 +21697,6 @@
         "technology_alloc": 0.230769230769231,
         "utilities_alloc": 0.032318017552917,
         "sector_diversification_score": 5.93759421786267
-      }
-    },
-    {
-      "ticker": "VFMF",
-      "metrics": {
-        "comm_services_alloc": 0.047690763052209,
-        "cons_disc_alloc": 0.134638554216867,
-        "cons_staples_alloc": 0.06706827309237,
-        "energy_alloc": 0.073393574297189,
-        "financials_alloc": 0.245381526104418,
-        "health_care_alloc": 0.169879518072289,
-        "industrials_alloc": 0.096987951807229,
-        "materials_alloc": 0.033333333333333,
-        "real_estate_alloc": 0.00281124497992,
-        "technology_alloc": 0.128815261044177,
-        "utilities_alloc": 0,
-        "sector_diversification_score": 6.8205421686747
-      }
-    },
-    {
-      "ticker": "VFMO",
-      "metrics": {
-        "comm_services_alloc": 0.033569979716024,
-        "cons_disc_alloc": 0.085395537525355,
-        "cons_staples_alloc": 0.026369168356998,
-        "energy_alloc": 0.072312373225152,
-        "financials_alloc": 0.065212981744422,
-        "health_care_alloc": 0.229107505070993,
-        "industrials_alloc": 0.247565922920892,
-        "materials_alloc": 0.06419878296146,
-        "real_estate_alloc": 0,
-        "technology_alloc": 0.174746450304259,
-        "utilities_alloc": 0.001521298174442,
-        "sector_diversification_score": 6.25094320486816
-      }
-    },
-    {
-      "ticker": "VFMV",
-      "metrics": {
-        "comm_services_alloc": 0.107291273139403,
-        "cons_disc_alloc": 0.066018133736305,
-        "cons_staples_alloc": 0.094540989799773,
-        "energy_alloc": 0.038817529278428,
-        "financials_alloc": 0.105874574990555,
-        "health_care_alloc": 0.10115224782773,
-        "industrials_alloc": 0.110691348696638,
-        "materials_alloc": 0,
-        "real_estate_alloc": 0.063940309784662,
-        "technology_alloc": 0.244805440120892,
-        "utilities_alloc": 0.066868152625614,
-        "sector_diversification_score": 7.83287684170759
-      }
-    },
-    {
-      "ticker": "VFQY",
-      "metrics": {
-        "comm_services_alloc": 0.028253681995792,
-        "cons_disc_alloc": 0.128644424406372,
-        "cons_staples_alloc": 0.091373609858732,
-        "energy_alloc": 0.021841498847811,
-        "financials_alloc": 0.190361687205691,
-        "health_care_alloc": 0.089269612263301,
-        "industrials_alloc": 0.171225328123435,
-        "materials_alloc": 0.024847209698427,
-        "real_estate_alloc": 0,
-        "technology_alloc": 0.254182947600441,
-        "utilities_alloc": 0,
-        "sector_diversification_score": 6.22569882777276
-      }
-    },
-    {
-      "ticker": "VFVA",
-      "metrics": {
-        "comm_services_alloc": 0.062230251932149,
-        "cons_disc_alloc": 0.128475358827663,
-        "cons_staples_alloc": 0.070962561477467,
-        "energy_alloc": 0.073271103081401,
-        "financials_alloc": 0.265181170330224,
-        "health_care_alloc": 0.14915186188899,
-        "industrials_alloc": 0.07568001605942,
-        "materials_alloc": 0.034628124059019,
-        "real_estate_alloc": 0.004115226337449,
-        "technology_alloc": 0.136304326006223,
-        "utilities_alloc": 0,
-        "sector_diversification_score": 6.87678410117433
       }
     },
     {
@@ -22768,23 +21833,6 @@
         "technology_alloc": 0.17668305407846,
         "utilities_alloc": 0.015450988261262,
         "sector_diversification_score": 6.68786997090396
-      }
-    },
-    {
-      "ticker": "VIOO",
-      "metrics": {
-        "comm_services_alloc": 0.036504424778761,
-        "cons_disc_alloc": 0.130631536604989,
-        "cons_staples_alloc": 0.035901045856798,
-        "energy_alloc": 0.053801287208367,
-        "financials_alloc": 0.164420756234917,
-        "health_care_alloc": 0.109312148028963,
-        "industrials_alloc": 0.151347546259052,
-        "materials_alloc": 0.049979887369268,
-        "real_estate_alloc": 0.075724054706356,
-        "technology_alloc": 0.173370876910701,
-        "utilities_alloc": 0.019006436041834,
-        "sector_diversification_score": 7.28207964601768
       }
     },
     {
@@ -23264,40 +22312,6 @@
       }
     },
     {
-      "ticker": "VTHR",
-      "metrics": {
-        "comm_services_alloc": 0.099194617188295,
-        "cons_disc_alloc": 0.097665409317971,
-        "cons_staples_alloc": 0.043327556325822,
-        "energy_alloc": 0.033336731573045,
-        "financials_alloc": 0.115302273422365,
-        "health_care_alloc": 0.086859007034354,
-        "industrials_alloc": 0.095524518299519,
-        "materials_alloc": 0.021714751758589,
-        "real_estate_alloc": 0.021612804567234,
-        "technology_alloc": 0.364155367519618,
-        "utilities_alloc": 0.021306962993169,
-        "sector_diversification_score": 6.85876236109701
-      }
-    },
-    {
-      "ticker": "VTI",
-      "metrics": {
-        "comm_services_alloc": 0.096902790555045,
-        "cons_disc_alloc": 0.096596136154554,
-        "cons_staples_alloc": 0.043136052335685,
-        "energy_alloc": 0.033220893386487,
-        "financials_alloc": 0.113871000715527,
-        "health_care_alloc": 0.086987631605847,
-        "industrials_alloc": 0.097413881222529,
-        "materials_alloc": 0.020034754165389,
-        "real_estate_alloc": 0.021874680568333,
-        "technology_alloc": 0.369109680057244,
-        "utilities_alloc": 0.020852499233364,
-        "sector_diversification_score": 6.83845446182151
-      }
-    },
-    {
       "ticker": "VTV",
       "metrics": {
         "comm_services_alloc": 0.029393564356436,
@@ -23312,57 +22326,6 @@
         "technology_alloc": 0.144183168316832,
         "utilities_alloc": 0.049504950495049,
         "sector_diversification_score": 6.81417079207921
-      }
-    },
-    {
-      "ticker": "VTWG",
-      "metrics": {
-        "comm_services_alloc": 0.02224728316588,
-        "cons_disc_alloc": 0.070740209144965,
-        "cons_staples_alloc": 0.02337502563051,
-        "energy_alloc": 0.030859134713963,
-        "financials_alloc": 0.077711708017222,
-        "health_care_alloc": 0.219089604264913,
-        "industrials_alloc": 0.231392249333603,
-        "materials_alloc": 0.039881074431002,
-        "real_estate_alloc": 0.02009432027886,
-        "technology_alloc": 0.258047980315764,
-        "utilities_alloc": 0.006561410703301,
-        "sector_diversification_score": 5.68555464424854
-      }
-    },
-    {
-      "ticker": "VTWO",
-      "metrics": {
-        "comm_services_alloc": 0.018899101518125,
-        "cons_disc_alloc": 0.079004440772489,
-        "cons_staples_alloc": 0.021274398430239,
-        "energy_alloc": 0.053392543633172,
-        "financials_alloc": 0.155943405969226,
-        "health_care_alloc": 0.164824950944957,
-        "industrials_alloc": 0.18083238665703,
-        "materials_alloc": 0.046886295569556,
-        "real_estate_alloc": 0.058762780130126,
-        "technology_alloc": 0.19229577610245,
-        "utilities_alloc": 0.027883920272643,
-        "sector_diversification_score": 6.7304244552308
-      }
-    },
-    {
-      "ticker": "VTWV",
-      "metrics": {
-        "comm_services_alloc": 0.014424552429667,
-        "cons_disc_alloc": 0.09012787723785,
-        "cons_staples_alloc": 0.018823529411765,
-        "energy_alloc": 0.079079283887467,
-        "financials_alloc": 0.242352941176467,
-        "health_care_alloc": 0.101790281329922,
-        "industrials_alloc": 0.12552429667519,
-        "materials_alloc": 0.055549872122762,
-        "real_estate_alloc": 0.102915601023017,
-        "technology_alloc": 0.11856777493606,
-        "utilities_alloc": 0.05084398976982,
-        "sector_diversification_score": 7.65760613810745
       }
     },
     {
@@ -23400,40 +22363,6 @@
       }
     },
     {
-      "ticker": "VUSG",
-      "metrics": {
-        "comm_services_alloc": 0.108001658374793,
-        "cons_disc_alloc": 0.149461028192371,
-        "cons_staples_alloc": 0,
-        "energy_alloc": 0,
-        "financials_alloc": 0.051305970149254,
-        "health_care_alloc": 0.067164179104478,
-        "industrials_alloc": 0.029643449419569,
-        "materials_alloc": 0,
-        "real_estate_alloc": 0.020004145936982,
-        "technology_alloc": 0.574419568822554,
-        "utilities_alloc": 0,
-        "sector_diversification_score": 4.46436567164179
-      }
-    },
-    {
-      "ticker": "VUSV",
-      "metrics": {
-        "comm_services_alloc": 0.073514185131497,
-        "cons_disc_alloc": 0.084593083454131,
-        "cons_staples_alloc": 0.0648167322427,
-        "energy_alloc": 0.086974528887969,
-        "financials_alloc": 0.167943673638434,
-        "health_care_alloc": 0.138227376268379,
-        "industrials_alloc": 0.109753572168151,
-        "materials_alloc": 0.046489956512736,
-        "real_estate_alloc": 0.046489956512736,
-        "technology_alloc": 0.143818595982605,
-        "utilities_alloc": 0.037378339200663,
-        "sector_diversification_score": 8.05854214123007
-      }
-    },
-    {
       "ticker": "VV",
       "metrics": {
         "comm_services_alloc": 0.098943518894759,
@@ -23465,23 +22394,6 @@
         "technology_alloc": 0.39302446642373,
         "utilities_alloc": 0.026028110359187,
         "sector_diversification_score": 6.11304008328995
-      }
-    },
-    {
-      "ticker": "VXF",
-      "metrics": {
-        "comm_services_alloc": 0.030494761954155,
-        "cons_disc_alloc": 0.091795456902813,
-        "cons_staples_alloc": 0.023752722746604,
-        "energy_alloc": 0.044808629810187,
-        "financials_alloc": 0.139093455035789,
-        "health_care_alloc": 0.126646613421848,
-        "industrials_alloc": 0.194793071258174,
-        "materials_alloc": 0.041593195726586,
-        "real_estate_alloc": 0.057774089824709,
-        "technology_alloc": 0.230059122497673,
-        "utilities_alloc": 0.019188880821492,
-        "sector_diversification_score": 6.7543615807488
       }
     },
     {
@@ -23703,23 +22615,6 @@
         "technology_alloc": 0.527006093152949,
         "utilities_alloc": 0,
         "sector_diversification_score": 4.77659816172674
-      }
-    },
-    {
-      "ticker": "WTV",
-      "metrics": {
-        "comm_services_alloc": 0.072258339550251,
-        "cons_disc_alloc": 0.091015666631142,
-        "cons_staples_alloc": 0.093786635404455,
-        "energy_alloc": 0.069061067888735,
-        "financials_alloc": 0.182564211872535,
-        "health_care_alloc": 0.083235638921454,
-        "industrials_alloc": 0.11126505382074,
-        "materials_alloc": 0.044868378983268,
-        "real_estate_alloc": 0.046893317702228,
-        "technology_alloc": 0.162421400404988,
-        "utilities_alloc": 0.042630288820207,
-        "sector_diversification_score": 8.15357561547479
       }
     },
     {
@@ -24624,6 +23519,23 @@
       }
     },
     {
+      "ticker": "ABFL",
+      "metrics": {
+        "comm_services_alloc": 0.030549898167006,
+        "cons_disc_alloc": 0.137067209775967,
+        "cons_staples_alloc": 0.0489816700611,
+        "energy_alloc": 0.017922606924644,
+        "financials_alloc": 0.058553971486762,
+        "health_care_alloc": 0.155906313645621,
+        "industrials_alloc": 0.15091649694501,
+        "materials_alloc": 0.021588594704684,
+        "real_estate_alloc": 0,
+        "technology_alloc": 0.378513238289206,
+        "utilities_alloc": 0,
+        "sector_diversification_score": 5.45820773930754
+      }
+    },
+    {
       "ticker": "ACGR",
       "metrics": {
         "comm_services_alloc": 0.113977052420964,
@@ -24675,6 +23587,57 @@
       }
     },
     {
+      "ticker": "AIVL",
+      "metrics": {
+        "comm_services_alloc": 0.042515956351657,
+        "cons_disc_alloc": 0.025221330039119,
+        "cons_staples_alloc": 0.091208564957793,
+        "energy_alloc": 0.024088943792465,
+        "financials_alloc": 0.169343215976941,
+        "health_care_alloc": 0.121988882025942,
+        "industrials_alloc": 0.185814288655549,
+        "materials_alloc": 0.058369363804818,
+        "real_estate_alloc": 0.008647313156269,
+        "technology_alloc": 0.18035824583076,
+        "utilities_alloc": 0.092443895408689,
+        "sector_diversification_score": 7.07254478072884
+      }
+    },
+    {
+      "ticker": "BKSE",
+      "metrics": {
+        "comm_services_alloc": 0.018209255533199,
+        "cons_disc_alloc": 0.135814889336016,
+        "cons_staples_alloc": 0.026659959758551,
+        "energy_alloc": 0.060663983903421,
+        "financials_alloc": 0.163983903420523,
+        "health_care_alloc": 0.132897384305835,
+        "industrials_alloc": 0.15,
+        "materials_alloc": 0.045472837022133,
+        "real_estate_alloc": 0.070925553319919,
+        "technology_alloc": 0.163883299798792,
+        "utilities_alloc": 0.03148893360161,
+        "sector_diversification_score": 7.10886317907445
+      }
+    },
+    {
+      "ticker": "BSVO",
+      "metrics": {
+        "comm_services_alloc": 0.038255778742303,
+        "cons_disc_alloc": 0.158675683859897,
+        "cons_staples_alloc": 0.04956091652367,
+        "energy_alloc": 0.134046633693348,
+        "financials_alloc": 0.337135358837185,
+        "health_care_alloc": 0.034722923185626,
+        "industrials_alloc": 0.132532552740486,
+        "materials_alloc": 0.054305036842636,
+        "real_estate_alloc": 0.00646007873221,
+        "technology_alloc": 0.054305036842636,
+        "utilities_alloc": 0,
+        "sector_diversification_score": 6.05233673160392
+      }
+    },
+    {
       "ticker": "CCOR",
       "metrics": {
         "comm_services_alloc": 0.078820739672459,
@@ -24689,6 +23652,142 @@
         "technology_alloc": 0.110705222557454,
         "utilities_alloc": 0.061848368928923,
         "sector_diversification_score": 8.05461834699905
+      }
+    },
+    {
+      "ticker": "CPTL",
+      "metrics": {
+        "comm_services_alloc": null,
+        "cons_disc_alloc": null,
+        "cons_staples_alloc": null,
+        "energy_alloc": null,
+        "financials_alloc": null,
+        "health_care_alloc": null,
+        "industrials_alloc": null,
+        "materials_alloc": null,
+        "real_estate_alloc": null,
+        "technology_alloc": null,
+        "utilities_alloc": null,
+        "sector_diversification_score": null
+      }
+    },
+    {
+      "ticker": "DCOR",
+      "metrics": {
+        "comm_services_alloc": 0.081616079585832,
+        "cons_disc_alloc": 0.098873210841543,
+        "cons_staples_alloc": 0.048218454979192,
+        "energy_alloc": 0.048015429905595,
+        "financials_alloc": 0.145264440158366,
+        "health_care_alloc": 0.086894731499344,
+        "industrials_alloc": 0.12414983250432,
+        "materials_alloc": 0.031773424017868,
+        "real_estate_alloc": 0.001725713125571,
+        "technology_alloc": 0.30971474977161,
+        "utilities_alloc": 0.023753933610802,
+        "sector_diversification_score": 6.88777789056941
+      }
+    },
+    {
+      "ticker": "DFAC",
+      "metrics": {
+        "comm_services_alloc": 0.070026310463468,
+        "cons_disc_alloc": 0.101396478445657,
+        "cons_staples_alloc": 0.048168386966201,
+        "energy_alloc": 0.050698239222829,
+        "financials_alloc": 0.146023072252577,
+        "health_care_alloc": 0.092086622141265,
+        "industrials_alloc": 0.134183363691558,
+        "materials_alloc": 0.035114349321999,
+        "real_estate_alloc": 0.002327464076098,
+        "technology_alloc": 0.30155838899008,
+        "utilities_alloc": 0.018417324428253,
+        "sector_diversification_score": 6.82504553734066
+      }
+    },
+    {
+      "ticker": "DFAS",
+      "metrics": {
+        "comm_services_alloc": 0.024299253881831,
+        "cons_disc_alloc": 0.133696309739866,
+        "cons_staples_alloc": 0.042044767090139,
+        "energy_alloc": 0.059991933857632,
+        "financials_alloc": 0.195603952409759,
+        "health_care_alloc": 0.123008671103044,
+        "industrials_alloc": 0.190260133091348,
+        "materials_alloc": 0.051018350473886,
+        "real_estate_alloc": 0.006251260334745,
+        "technology_alloc": 0.146702964307319,
+        "utilities_alloc": 0.027122403710425,
+        "sector_diversification_score": 6.68620689655173
+      }
+    },
+    {
+      "ticker": "DFAT",
+      "metrics": {
+        "comm_services_alloc": 0.016891212547758,
+        "cons_disc_alloc": 0.144078021315101,
+        "cons_staples_alloc": 0.067464307259199,
+        "energy_alloc": 0.099738588377236,
+        "financials_alloc": 0.282425095515785,
+        "health_care_alloc": 0.068067564850191,
+        "industrials_alloc": 0.168409410818418,
+        "materials_alloc": 0.050372008847778,
+        "real_estate_alloc": 0.008345063342047,
+        "technology_alloc": 0.089985923989543,
+        "utilities_alloc": 0.004222803136939,
+        "sector_diversification_score": 6.72295395133723
+      }
+    },
+    {
+      "ticker": "DFAU",
+      "metrics": {
+        "comm_services_alloc": 0.092741524992363,
+        "cons_disc_alloc": 0.100376667006004,
+        "cons_staples_alloc": 0.045200040720756,
+        "energy_alloc": 0.038684719535783,
+        "financials_alloc": 0.127659574468082,
+        "health_care_alloc": 0.082764939427871,
+        "industrials_alloc": 0.108011809019645,
+        "materials_alloc": 0.025654077165835,
+        "real_estate_alloc": 0.001323424615698,
+        "technology_alloc": 0.354270589432953,
+        "utilities_alloc": 0.023312633614985,
+        "sector_diversification_score": 6.74770436730131
+      }
+    },
+    {
+      "ticker": "DFSU",
+      "metrics": {
+        "comm_services_alloc": 0.098017510314983,
+        "cons_disc_alloc": 0.109288517661265,
+        "cons_staples_alloc": 0.042668813525208,
+        "energy_alloc": 0.017510314984402,
+        "financials_alloc": 0.164838482439367,
+        "health_care_alloc": 0.103954915970614,
+        "industrials_alloc": 0.13032102244138,
+        "materials_alloc": 0.026064204488276,
+        "real_estate_alloc": 0.002213947871591,
+        "technology_alloc": 0.295964576834051,
+        "utilities_alloc": 0.009157693468854,
+        "sector_diversification_score": 6.46638824594952
+      }
+    },
+    {
+      "ticker": "DFUS",
+      "metrics": {
+        "comm_services_alloc": 0.096436909958383,
+        "cons_disc_alloc": 0.094914221906409,
+        "cons_staples_alloc": 0.045274591412041,
+        "energy_alloc": 0.032890061922649,
+        "financials_alloc": 0.122221094305151,
+        "health_care_alloc": 0.086082631204957,
+        "industrials_alloc": 0.10202009948229,
+        "materials_alloc": 0.022332758095626,
+        "real_estate_alloc": 0.000913612831185,
+        "technology_alloc": 0.374175210638527,
+        "utilities_alloc": 0.022738808242819,
+        "sector_diversification_score": 6.68130139072165
       }
     },
     {
@@ -24726,6 +23825,74 @@
       }
     },
     {
+      "ticker": "DXUV",
+      "metrics": {
+        "comm_services_alloc": 0.06784423926134,
+        "cons_disc_alloc": 0.105981533520672,
+        "cons_staples_alloc": 0.052388598956242,
+        "energy_alloc": 0.061822561220392,
+        "financials_alloc": 0.165796868727417,
+        "health_care_alloc": 0.085307105580087,
+        "industrials_alloc": 0.156061822561219,
+        "materials_alloc": 0.041047771979124,
+        "real_estate_alloc": 0.003010839020474,
+        "technology_alloc": 0.255921316740262,
+        "utilities_alloc": 0.004817342432758,
+        "sector_diversification_score": 6.83076073865919
+      }
+    },
+    {
+      "ticker": "EBI",
+      "metrics": {
+        "comm_services_alloc": 0.079963789981895,
+        "cons_disc_alloc": 0.106216053108026,
+        "cons_staples_alloc": 0.047374773687387,
+        "energy_alloc": 0.088312210822772,
+        "financials_alloc": 0.155602494467913,
+        "health_care_alloc": 0.065882116274391,
+        "industrials_alloc": 0.116676725005028,
+        "materials_alloc": 0.049788774894387,
+        "real_estate_alloc": 0.000804667069,
+        "technology_alloc": 0.275497887748943,
+        "utilities_alloc": 0.013880506940253,
+        "sector_diversification_score": 7.12546771273386
+      }
+    },
+    {
+      "ticker": "EBIT",
+      "metrics": {
+        "comm_services_alloc": 0.036492701459708,
+        "cons_disc_alloc": 0.147070585882824,
+        "cons_staples_alloc": 0.028594281143771,
+        "energy_alloc": 0.111777644471106,
+        "financials_alloc": 0.260647870425915,
+        "health_care_alloc": 0.043591281743651,
+        "industrials_alloc": 0.149370125974806,
+        "materials_alloc": 0.042891421715657,
+        "real_estate_alloc": 0.075284943011398,
+        "technology_alloc": 0.076884623075385,
+        "utilities_alloc": 0.027394521095781,
+        "sector_diversification_score": 6.97822435512897
+      }
+    },
+    {
+      "ticker": "ESGV",
+      "metrics": {
+        "comm_services_alloc": 0.119520306358963,
+        "cons_disc_alloc": 0.11589237125869,
+        "cons_staples_alloc": 0.036077799052705,
+        "energy_alloc": 0,
+        "financials_alloc": 0.116093923208706,
+        "health_care_alloc": 0.095233296382141,
+        "industrials_alloc": 0.046256172528469,
+        "materials_alloc": 0.018542779401391,
+        "real_estate_alloc": 0.025798649601935,
+        "technology_alloc": 0.425073062581877,
+        "utilities_alloc": 0.001511639625113,
+        "sector_diversification_score": 5.86905169807522
+      }
+    },
+    {
       "ticker": "ESIX",
       "metrics": {
         "comm_services_alloc": null,
@@ -24760,6 +23927,176 @@
       }
     },
     {
+      "ticker": "FBCG",
+      "metrics": {
+        "comm_services_alloc": 0.135762915498598,
+        "cons_disc_alloc": 0.16079295154185,
+        "cons_staples_alloc": 0.011413696435723,
+        "energy_alloc": 0.003404084901882,
+        "financials_alloc": 0.02362835402483,
+        "health_care_alloc": 0.055466559871846,
+        "industrials_alloc": 0.060072086503805,
+        "materials_alloc": 0.005106127352823,
+        "real_estate_alloc": 0.005606728073688,
+        "technology_alloc": 0.534941930316379,
+        "utilities_alloc": 0.003804565478574,
+        "sector_diversification_score": 4.4681718061674
+      }
+    },
+    {
+      "ticker": "FBCV",
+      "metrics": {
+        "comm_services_alloc": 0.089976877450488,
+        "cons_disc_alloc": 0.097918970543883,
+        "cons_staples_alloc": 0.085955564491807,
+        "energy_alloc": 0.079823062229818,
+        "financials_alloc": 0.214034382225797,
+        "health_care_alloc": 0.129385744445561,
+        "industrials_alloc": 0.109882376595959,
+        "materials_alloc": 0.038101940283503,
+        "real_estate_alloc": 0.007338896149593,
+        "technology_alloc": 0.126369759726551,
+        "utilities_alloc": 0.021212425857042,
+        "sector_diversification_score": 7.79184678797627
+      }
+    },
+    {
+      "ticker": "FESM",
+      "metrics": {
+        "comm_services_alloc": 0.026586533564225,
+        "cons_disc_alloc": 0.083936029336865,
+        "cons_staples_alloc": 0.009065906081288,
+        "energy_alloc": 0.050830192523174,
+        "financials_alloc": 0.153611082815524,
+        "health_care_alloc": 0.163186309463176,
+        "industrials_alloc": 0.186513191402669,
+        "materials_alloc": 0.039625140063156,
+        "real_estate_alloc": 0.038606498930427,
+        "technology_alloc": 0.22878679841092,
+        "utilities_alloc": 0.019252317408577,
+        "sector_diversification_score": 6.35223591728634
+      }
+    },
+    {
+      "ticker": "FFSM",
+      "metrics": {
+        "comm_services_alloc": 0.0083543029693,
+        "cons_disc_alloc": 0.121389028686462,
+        "cons_staples_alloc": 0.03704076497232,
+        "energy_alloc": 0.044287871162557,
+        "financials_alloc": 0.161751383995974,
+        "health_care_alloc": 0.120080523402114,
+        "industrials_alloc": 0.247408152994464,
+        "materials_alloc": 0.030800201308505,
+        "real_estate_alloc": 0.053145445395068,
+        "technology_alloc": 0.153497735279316,
+        "utilities_alloc": 0.022244589833921,
+        "sector_diversification_score": 6.53914443885254
+      }
+    },
+    {
+      "ticker": "FMAG",
+      "metrics": {
+        "comm_services_alloc": 0.102789721027897,
+        "cons_disc_alloc": 0.113388661133887,
+        "cons_staples_alloc": 0.015798420157984,
+        "energy_alloc": 0,
+        "financials_alloc": 0.081991800819918,
+        "health_care_alloc": 0.030896910308969,
+        "industrials_alloc": 0.154984501549845,
+        "materials_alloc": 0.036096390360964,
+        "real_estate_alloc": 0.011598840115988,
+        "technology_alloc": 0.452454754524548,
+        "utilities_alloc": 0,
+        "sector_diversification_score": 5.44618538146185
+      }
+    },
+    {
+      "ticker": "FMCE",
+      "metrics": {
+        "comm_services_alloc": 0.03049456642271,
+        "cons_disc_alloc": 0.078731426036815,
+        "cons_staples_alloc": 0.047904191616767,
+        "energy_alloc": 0.024173874473276,
+        "financials_alloc": 0.257595919272566,
+        "health_care_alloc": 0.104790419161677,
+        "industrials_alloc": 0.141162120204036,
+        "materials_alloc": 0.042137946329563,
+        "real_estate_alloc": 0,
+        "technology_alloc": 0.27300953648259,
+        "utilities_alloc": 0,
+        "sector_diversification_score": 5.91207584830339
+      }
+    },
+    {
+      "ticker": "FMCX",
+      "metrics": {
+        "comm_services_alloc": 0.0530749789385,
+        "cons_disc_alloc": 0.176916596461668,
+        "cons_staples_alloc": 0,
+        "energy_alloc": 0,
+        "financials_alloc": 0.136057287278854,
+        "health_care_alloc": 0.09298652064027,
+        "industrials_alloc": 0.19092249368155,
+        "materials_alloc": 0.038331929233361,
+        "real_estate_alloc": 0,
+        "technology_alloc": 0.311710193765796,
+        "utilities_alloc": 0,
+        "sector_diversification_score": 5.50492839090143
+      }
+    },
+    {
+      "ticker": "FNDB",
+      "metrics": {
+        "comm_services_alloc": 0.08868285800665,
+        "cons_disc_alloc": 0.088884409956665,
+        "cons_staples_alloc": 0.068023783130101,
+        "energy_alloc": 0.086264234606468,
+        "financials_alloc": 0.143605764385769,
+        "health_care_alloc": 0.116194699183712,
+        "industrials_alloc": 0.103194598407737,
+        "materials_alloc": 0.038899526352917,
+        "real_estate_alloc": 0.022573818401693,
+        "technology_alloc": 0.214753602741103,
+        "utilities_alloc": 0.028922704827169,
+        "sector_diversification_score": 7.88028821928853
+      }
+    },
+    {
+      "ticker": "GABF",
+      "metrics": {
+        "comm_services_alloc": 0,
+        "cons_disc_alloc": 0,
+        "cons_staples_alloc": 0,
+        "energy_alloc": 0,
+        "financials_alloc": 0.884137191854234,
+        "health_care_alloc": 0,
+        "industrials_alloc": 0.051982851018221,
+        "materials_alloc": 0,
+        "real_estate_alloc": 0.045016077170418,
+        "technology_alloc": 0.018863879957128,
+        "utilities_alloc": 0,
+        "sector_diversification_score": 2.14704180064309
+      }
+    },
+    {
+      "ticker": "GCAD",
+      "metrics": {
+        "comm_services_alloc": 0.015215379870464,
+        "cons_disc_alloc": 0.061169939344094,
+        "cons_staples_alloc": 0,
+        "energy_alloc": 0,
+        "financials_alloc": 0,
+        "health_care_alloc": 0,
+        "industrials_alloc": 0.916418217333196,
+        "materials_alloc": 0,
+        "real_estate_alloc": 0,
+        "technology_alloc": 0.007196463452246,
+        "utilities_alloc": 0,
+        "sector_diversification_score": 1.82745964840136
+      }
+    },
+    {
       "ticker": "GOP",
       "metrics": {
         "comm_services_alloc": 0.033142237873652,
@@ -24777,6 +24114,40 @@
       }
     },
     {
+      "ticker": "GQGU",
+      "metrics": {
+        "comm_services_alloc": 0.122338204592902,
+        "cons_disc_alloc": 0,
+        "cons_staples_alloc": 0.179540709812109,
+        "energy_alloc": 0.19446764091858,
+        "financials_alloc": 0.20678496868476,
+        "health_care_alloc": 0.089665970772443,
+        "industrials_alloc": 0,
+        "materials_alloc": 0,
+        "real_estate_alloc": 0,
+        "technology_alloc": 0,
+        "utilities_alloc": 0.207202505219207,
+        "sector_diversification_score": 5.48769311064718
+      }
+    },
+    {
+      "ticker": "GSSC",
+      "metrics": {
+        "comm_services_alloc": 0.022100020751193,
+        "cons_disc_alloc": 0.101473334716745,
+        "cons_staples_alloc": 0.036107076156879,
+        "energy_alloc": 0.03921975513592,
+        "financials_alloc": 0.169537248391781,
+        "health_care_alloc": 0.170886075949366,
+        "industrials_alloc": 0.179809089022617,
+        "materials_alloc": 0.037040879850591,
+        "real_estate_alloc": 0.042228678148993,
+        "technology_alloc": 0.180950404648266,
+        "utilities_alloc": 0.02064743722764,
+        "sector_diversification_score": 6.55370408798508
+      }
+    },
+    {
       "ticker": "IAI",
       "metrics": {
         "comm_services_alloc": 0,
@@ -24791,23 +24162,6 @@
         "technology_alloc": 0.003112473520449,
         "utilities_alloc": 0,
         "sector_diversification_score": 1.03081348785244
-      }
-    },
-    {
-      "ticker": "IAK",
-      "metrics": {
-        "comm_services_alloc": 0,
-        "cons_disc_alloc": 0,
-        "cons_staples_alloc": 0,
-        "energy_alloc": 0,
-        "financials_alloc": 0.992987251832832,
-        "health_care_alloc": 0.007012748167168,
-        "industrials_alloc": 0,
-        "materials_alloc": 0,
-        "real_estate_alloc": 0,
-        "technology_alloc": 0,
-        "utilities_alloc": 0,
-        "sector_diversification_score": 1.06942620685497
       }
     },
     {
@@ -24862,23 +24216,6 @@
       }
     },
     {
-      "ticker": "IJK",
-      "metrics": {
-        "comm_services_alloc": 0.023977882289303,
-        "cons_disc_alloc": 0.07868415648681,
-        "cons_staples_alloc": 0.016193610105229,
-        "energy_alloc": 0.032346150186067,
-        "financials_alloc": 0.073335036236784,
-        "health_care_alloc": 0.143350412453233,
-        "industrials_alloc": 0.297148638428521,
-        "materials_alloc": 0.038101963848361,
-        "real_estate_alloc": 0.056401163984594,
-        "technology_alloc": 0.221970459633675,
-        "utilities_alloc": 0.018490526347422,
-        "sector_diversification_score": 6.14155184589726
-      }
-    },
-    {
       "ticker": "IJR",
       "metrics": {
         "comm_services_alloc": 0.030778080520454,
@@ -24930,6 +24267,57 @@
       }
     },
     {
+      "ticker": "IWFG",
+      "metrics": {
+        "comm_services_alloc": 0.131685575364668,
+        "cons_disc_alloc": 0.110615883306321,
+        "cons_staples_alloc": 0,
+        "energy_alloc": 0,
+        "financials_alloc": 0.045887358184765,
+        "health_care_alloc": 0.055004051863857,
+        "industrials_alloc": 0.114971636952998,
+        "materials_alloc": 0,
+        "real_estate_alloc": 0,
+        "technology_alloc": 0.54183549432739,
+        "utilities_alloc": 0,
+        "sector_diversification_score": 4.69882495948136
+      }
+    },
+    {
+      "ticker": "IWLG",
+      "metrics": {
+        "comm_services_alloc": 0.146486540981954,
+        "cons_disc_alloc": 0.089525153745337,
+        "cons_staples_alloc": 0,
+        "energy_alloc": 0,
+        "financials_alloc": 0.058473636455288,
+        "health_care_alloc": 0.052122189736869,
+        "industrials_alloc": 0.13196894848271,
+        "materials_alloc": 0.010989010989011,
+        "real_estate_alloc": 0,
+        "technology_alloc": 0.510434519608832,
+        "utilities_alloc": 0,
+        "sector_diversification_score": 4.8899889101724
+      }
+    },
+    {
+      "ticker": "JHAC",
+      "metrics": {
+        "comm_services_alloc": null,
+        "cons_disc_alloc": null,
+        "cons_staples_alloc": null,
+        "energy_alloc": null,
+        "financials_alloc": null,
+        "health_care_alloc": null,
+        "industrials_alloc": null,
+        "materials_alloc": null,
+        "real_estate_alloc": null,
+        "technology_alloc": null,
+        "utilities_alloc": null,
+        "sector_diversification_score": null
+      }
+    },
+    {
       "ticker": "LGCF",
       "metrics": {
         "comm_services_alloc": 0.018618886116938,
@@ -24944,6 +24332,125 @@
         "technology_alloc": 0.056126497280044,
         "utilities_alloc": 0,
         "sector_diversification_score": 5.25761352043503
+      }
+    },
+    {
+      "ticker": "LOPP",
+      "metrics": {
+        "comm_services_alloc": 0.014405637889937,
+        "cons_disc_alloc": 0.045289667323039,
+        "cons_staples_alloc": 0,
+        "energy_alloc": 0.037620478806094,
+        "financials_alloc": 0.02487304383874,
+        "health_care_alloc": 0.033785884547622,
+        "industrials_alloc": 0.501606384081252,
+        "materials_alloc": 0.06218260959685,
+        "real_estate_alloc": 0.030573116385118,
+        "technology_alloc": 0.084982899782361,
+        "utilities_alloc": 0.16468027774899,
+        "sector_diversification_score": 5.20376204788061
+      }
+    },
+    {
+      "ticker": "NELS",
+      "metrics": {
+        "comm_services_alloc": 0.10141485076939,
+        "cons_disc_alloc": 0.092533305793659,
+        "cons_staples_alloc": 0.051533615614995,
+        "energy_alloc": 0.025405349581741,
+        "financials_alloc": 0.117732107817825,
+        "health_care_alloc": 0.101208303211814,
+        "industrials_alloc": 0.096354435608799,
+        "materials_alloc": 0.022720231333265,
+        "real_estate_alloc": 0.013115769906021,
+        "technology_alloc": 0.377982030362491,
+        "utilities_alloc": 0,
+        "sector_diversification_score": 6.61647216771662
+      }
+    },
+    {
+      "ticker": "OMFS",
+      "metrics": {
+        "comm_services_alloc": 0.009431122704926,
+        "cons_disc_alloc": 0.08227149593659,
+        "cons_staples_alloc": 0.037523828634494,
+        "energy_alloc": 0.035517206782382,
+        "financials_alloc": 0.239991973512589,
+        "health_care_alloc": 0.13855723888833,
+        "industrials_alloc": 0.147486706130228,
+        "materials_alloc": 0.027992374836962,
+        "real_estate_alloc": 0.116083074144676,
+        "technology_alloc": 0.154409551520014,
+        "utilities_alloc": 0.010735426908799,
+        "sector_diversification_score": 6.61436741246116
+      }
+    },
+    {
+      "ticker": "ONEQ",
+      "metrics": {
+        "comm_services_alloc": 0.141051164642642,
+        "cons_disc_alloc": 0.115966553852279,
+        "cons_staples_alloc": 0.044395779414692,
+        "energy_alloc": 0.004578936890305,
+        "financials_alloc": 0.028568584511248,
+        "health_care_alloc": 0.047382042604021,
+        "industrials_alloc": 0.06062114274338,
+        "materials_alloc": 0.008560621142743,
+        "real_estate_alloc": 0.005673900059725,
+        "technology_alloc": 0.535337447740393,
+        "utilities_alloc": 0.007863826398567,
+        "sector_diversification_score": 4.85568385427037
+      }
+    },
+    {
+      "ticker": "PCLG",
+      "metrics": {
+        "comm_services_alloc": 0.086245657061108,
+        "cons_disc_alloc": 0.116492949110975,
+        "cons_staples_alloc": 0,
+        "energy_alloc": 0,
+        "financials_alloc": 0.145718373186184,
+        "health_care_alloc": 0.132331902718169,
+        "industrials_alloc": 0.039648477416718,
+        "materials_alloc": 0,
+        "real_estate_alloc": 0.026670754138565,
+        "technology_alloc": 0.452891886368281,
+        "utilities_alloc": 0,
+        "sector_diversification_score": 5.21039239730227
+      }
+    },
+    {
+      "ticker": "PRFZ",
+      "metrics": {
+        "comm_services_alloc": 0.025648762824382,
+        "cons_disc_alloc": 0.109736471534903,
+        "cons_staples_alloc": 0.028062764031382,
+        "energy_alloc": 0.046469523234762,
+        "financials_alloc": 0.131764232548784,
+        "health_care_alloc": 0.170488835244419,
+        "industrials_alloc": 0.168577750955543,
+        "materials_alloc": 0.034399517199759,
+        "real_estate_alloc": 0.070609535304768,
+        "technology_alloc": 0.199255682961176,
+        "utilities_alloc": 0.014986924160129,
+        "sector_diversification_score": 6.77975256487627
+      }
+    },
+    {
+      "ticker": "PVAL",
+      "metrics": {
+        "comm_services_alloc": 0.043583779957529,
+        "cons_disc_alloc": 0.099706744868035,
+        "cons_staples_alloc": 0.079886742845586,
+        "energy_alloc": 0.074122762665588,
+        "financials_alloc": 0.18697542724239,
+        "health_care_alloc": 0.116493073111538,
+        "industrials_alloc": 0.114976236222065,
+        "materials_alloc": 0.046617453736475,
+        "real_estate_alloc": 0.020426736778238,
+        "technology_alloc": 0.173323895237132,
+        "utilities_alloc": 0.043887147335423,
+        "sector_diversification_score": 7.65439377085651
       }
     },
     {
@@ -24964,6 +24471,40 @@
       }
     },
     {
+      "ticker": "RDVI",
+      "metrics": {
+        "comm_services_alloc": 0.039415322580645,
+        "cons_disc_alloc": 0.105745967741935,
+        "cons_staples_alloc": 0.028427419354839,
+        "energy_alloc": 0.022379032258065,
+        "financials_alloc": 0.396471774193548,
+        "health_care_alloc": 0.032157258064516,
+        "industrials_alloc": 0.149193548387097,
+        "materials_alloc": 0,
+        "real_estate_alloc": 0,
+        "technology_alloc": 0.226209677419355,
+        "utilities_alloc": 0,
+        "sector_diversification_score": 4.91155241935484
+      }
+    },
+    {
+      "ticker": "RFG",
+      "metrics": {
+        "comm_services_alloc": 0.017120544653584,
+        "cons_disc_alloc": 0.067280736884261,
+        "cons_staples_alloc": 0.023327993592311,
+        "energy_alloc": 0.0452543051662,
+        "financials_alloc": 0.034040849018823,
+        "health_care_alloc": 0.215358430116139,
+        "industrials_alloc": 0.306167400881057,
+        "materials_alloc": 0.036643972767321,
+        "real_estate_alloc": 0.021425710853024,
+        "technology_alloc": 0.211453744493392,
+        "utilities_alloc": 0.021926311573889,
+        "sector_diversification_score": 5.44350220264317
+      }
+    },
+    {
       "ticker": "RSHO",
       "metrics": {
         "comm_services_alloc": null,
@@ -24978,6 +24519,74 @@
         "technology_alloc": null,
         "utilities_alloc": null,
         "sector_diversification_score": null
+      }
+    },
+    {
+      "ticker": "RUNN",
+      "metrics": {
+        "comm_services_alloc": 0.022557991061928,
+        "cons_disc_alloc": 0.088210257501596,
+        "cons_staples_alloc": 0,
+        "energy_alloc": 0,
+        "financials_alloc": 0.136092785699085,
+        "health_care_alloc": 0.141519472228134,
+        "industrials_alloc": 0.454564801021494,
+        "materials_alloc": 0.021600340497978,
+        "real_estate_alloc": 0,
+        "technology_alloc": 0.135454351989785,
+        "utilities_alloc": 0,
+        "sector_diversification_score": 5.01044903170888
+      }
+    },
+    {
+      "ticker": "RWJ",
+      "metrics": {
+        "comm_services_alloc": 0.029838790427556,
+        "cons_disc_alloc": 0.244818263742867,
+        "cons_staples_alloc": 0.069089816761791,
+        "energy_alloc": 0.068789426254131,
+        "financials_alloc": 0.108641233603685,
+        "health_care_alloc": 0.113447481726245,
+        "industrials_alloc": 0.161409832782618,
+        "materials_alloc": 0.048563132071693,
+        "real_estate_alloc": 0.038349854811255,
+        "technology_alloc": 0.109242014619005,
+        "utilities_alloc": 0.007810153199159,
+        "sector_diversification_score": 7.19816761790326
+      }
+    },
+    {
+      "ticker": "SCHA",
+      "metrics": {
+        "comm_services_alloc": 0.023572076155939,
+        "cons_disc_alloc": 0.097612571773953,
+        "cons_staples_alloc": 0.02216178100131,
+        "energy_alloc": 0.041301500956987,
+        "financials_alloc": 0.15110305228166,
+        "health_care_alloc": 0.139216278835503,
+        "industrials_alloc": 0.159363352473058,
+        "materials_alloc": 0.042006648534302,
+        "real_estate_alloc": 0.059534602598974,
+        "technology_alloc": 0.242772237332534,
+        "utilities_alloc": 0.021355898055808,
+        "sector_diversification_score": 6.67833182230273
+      }
+    },
+    {
+      "ticker": "SCHB",
+      "metrics": {
+        "comm_services_alloc": 0.093340111845452,
+        "cons_disc_alloc": 0.093441789527201,
+        "cons_staples_alloc": 0.044026436197256,
+        "energy_alloc": 0.031621759023895,
+        "financials_alloc": 0.12018301982715,
+        "health_care_alloc": 0.086120996441283,
+        "industrials_alloc": 0.09974580579563,
+        "materials_alloc": 0.020742247076767,
+        "real_estate_alloc": 0.021453990849009,
+        "technology_alloc": 0.368174885612613,
+        "utilities_alloc": 0.021148957803763,
+        "sector_diversification_score": 6.82863243518044
       }
     },
     {
@@ -25015,6 +24624,23 @@
       }
     },
     {
+      "ticker": "SPIT",
+      "metrics": {
+        "comm_services_alloc": 0.126146095717884,
+        "cons_disc_alloc": 0.106801007556675,
+        "cons_staples_alloc": 0.009370277078086,
+        "energy_alloc": 0.0527959697733,
+        "financials_alloc": 0.048564231738035,
+        "health_care_alloc": 0.115062972292191,
+        "industrials_alloc": 0.118186397984887,
+        "materials_alloc": 0.005642317380353,
+        "real_estate_alloc": 0,
+        "technology_alloc": 0.41743073047859,
+        "utilities_alloc": 0,
+        "sector_diversification_score": 5.75209068010075
+      }
+    },
+    {
       "ticker": "STXF",
       "metrics": {
         "comm_services_alloc": 0.102556804515498,
@@ -25032,20 +24658,428 @@
       }
     },
     {
-      "ticker": "SVAL",
+      "ticker": "STXK",
       "metrics": {
-        "comm_services_alloc": 0.031858945745242,
-        "cons_disc_alloc": 0.118248589863247,
-        "cons_staples_alloc": 0.045102057379378,
-        "energy_alloc": 0.103546646106399,
-        "financials_alloc": 0.22270725966806,
-        "health_care_alloc": 0.118624964492959,
-        "industrials_alloc": 0.133013431806192,
-        "materials_alloc": 0.047295377997809,
-        "real_estate_alloc": 0.043631051414195,
-        "technology_alloc": 0.101297528709978,
-        "utilities_alloc": 0.03467414681654,
-        "sector_diversification_score": 7.50535963559632
+        "comm_services_alloc": 0.019576347756249,
+        "cons_disc_alloc": 0.135026603754643,
+        "cons_staples_alloc": 0.027306495331794,
+        "energy_alloc": 0.059532175484389,
+        "financials_alloc": 0.158317438008232,
+        "health_care_alloc": 0.129404678245156,
+        "industrials_alloc": 0.150486898905733,
+        "materials_alloc": 0.04387109727939,
+        "real_estate_alloc": 0.0724826824616,
+        "technology_alloc": 0.174480473848007,
+        "utilities_alloc": 0.029515108924807,
+        "sector_diversification_score": 7.09761068165846
+      }
+    },
+    {
+      "ticker": "TEQI",
+      "metrics": {
+        "comm_services_alloc": 0.069101578308377,
+        "cons_disc_alloc": 0.038445973290166,
+        "cons_staples_alloc": 0.067887494941319,
+        "energy_alloc": 0.10259004451639,
+        "financials_alloc": 0.203763658437879,
+        "health_care_alloc": 0.126770538243626,
+        "industrials_alloc": 0.132942128692837,
+        "materials_alloc": 0.030959125859976,
+        "real_estate_alloc": 0.032881424524484,
+        "technology_alloc": 0.134257385673816,
+        "utilities_alloc": 0.060400647511129,
+        "sector_diversification_score": 7.56679481991097
+      }
+    },
+    {
+      "ticker": "TILT",
+      "metrics": {
+        "comm_services_alloc": 0.075806451612901,
+        "cons_disc_alloc": 0.101310483870965,
+        "cons_staples_alloc": 0.043649193548386,
+        "energy_alloc": 0.041028225806451,
+        "financials_alloc": 0.167943548387092,
+        "health_care_alloc": 0.092036290322578,
+        "industrials_alloc": 0.103629032258062,
+        "materials_alloc": 0.027923387096774,
+        "real_estate_alloc": 0.029637096774193,
+        "technology_alloc": 0.295060483870964,
+        "utilities_alloc": 0.021975806451612,
+        "sector_diversification_score": 6.97619959677425
+      }
+    },
+    {
+      "ticker": "TMVE",
+      "metrics": {
+        "comm_services_alloc": 0.028597880876453,
+        "cons_disc_alloc": 0.103487295545726,
+        "cons_staples_alloc": 0.050612076946816,
+        "energy_alloc": 0.078078386997223,
+        "financials_alloc": 0.152556321366115,
+        "health_care_alloc": 0.076123855570415,
+        "industrials_alloc": 0.171793025408909,
+        "materials_alloc": 0.041456640263347,
+        "real_estate_alloc": 0.079312827898364,
+        "technology_alloc": 0.135479888900319,
+        "utilities_alloc": 0.082501800226314,
+        "sector_diversification_score": 8.02316634091143
+      }
+    },
+    {
+      "ticker": "TSCV",
+      "metrics": {
+        "comm_services_alloc": 0,
+        "cons_disc_alloc": 0.146754179058558,
+        "cons_staples_alloc": 0.049738488360168,
+        "energy_alloc": 0.053635524561583,
+        "financials_alloc": 0.207465900933238,
+        "health_care_alloc": 0.081427545892729,
+        "industrials_alloc": 0.18069941544457,
+        "materials_alloc": 0.095990154855912,
+        "real_estate_alloc": 0.053122756640345,
+        "technology_alloc": 0.085427135678392,
+        "utilities_alloc": 0.045738898574505,
+        "sector_diversification_score": 7.35399446210645
+      }
+    },
+    {
+      "ticker": "TSME",
+      "metrics": {
+        "comm_services_alloc": 0,
+        "cons_disc_alloc": 0.151951951951952,
+        "cons_staples_alloc": 0.053953953953954,
+        "energy_alloc": 0,
+        "financials_alloc": 0.093393393393393,
+        "health_care_alloc": 0.085585585585586,
+        "industrials_alloc": 0.295495495495495,
+        "materials_alloc": 0.057957957957958,
+        "real_estate_alloc": 0,
+        "technology_alloc": 0.237837837837838,
+        "utilities_alloc": 0.023823823823824,
+        "sector_diversification_score": 5.89108108108108
+      }
+    },
+    {
+      "ticker": "TSPA",
+      "metrics": {
+        "comm_services_alloc": 0.110003022061046,
+        "cons_disc_alloc": 0.098116248614889,
+        "cons_staples_alloc": 0.046942681575501,
+        "energy_alloc": 0.035962526443034,
+        "financials_alloc": 0.127027299284779,
+        "health_care_alloc": 0.085625062959605,
+        "industrials_alloc": 0.08179711896847,
+        "materials_alloc": 0.020046338269366,
+        "real_estate_alloc": 0.01672207111917,
+        "technology_alloc": 0.353480406970887,
+        "utilities_alloc": 0.024277223733253,
+        "sector_diversification_score": 6.78259292837715
+      }
+    },
+    {
+      "ticker": "VB",
+      "metrics": {
+        "comm_services_alloc": 0.027840097899246,
+        "cons_disc_alloc": 0.099836834591068,
+        "cons_staples_alloc": 0.034774627778911,
+        "energy_alloc": 0.042219049561494,
+        "financials_alloc": 0.124107689169898,
+        "health_care_alloc": 0.112482153783399,
+        "industrials_alloc": 0.207322047725885,
+        "materials_alloc": 0.052824801142159,
+        "real_estate_alloc": 0.074852131348155,
+        "technology_alloc": 0.192739139302471,
+        "utilities_alloc": 0.031001427697329,
+        "sector_diversification_score": 7.20877014073013
+      }
+    },
+    {
+      "ticker": "VBR",
+      "metrics": {
+        "comm_services_alloc": 0.024944455665522,
+        "cons_disc_alloc": 0.114724298121591,
+        "cons_staples_alloc": 0.039083013532619,
+        "energy_alloc": 0.043324580892749,
+        "financials_alloc": 0.175419107251059,
+        "health_care_alloc": 0.083922439911128,
+        "industrials_alloc": 0.177236921833972,
+        "materials_alloc": 0.070995758432639,
+        "real_estate_alloc": 0.10452433851747,
+        "technology_alloc": 0.120076752171278,
+        "utilities_alloc": 0.045748333669965,
+        "sector_diversification_score": 7.64938396283581
+      }
+    },
+    {
+      "ticker": "VDIG",
+      "metrics": {
+        "comm_services_alloc": 0.034685598377282,
+        "cons_disc_alloc": 0.129817444219067,
+        "cons_staples_alloc": 0.071805273833671,
+        "energy_alloc": 0.0052738336714,
+        "financials_alloc": 0.252839756592292,
+        "health_care_alloc": 0.126470588235294,
+        "industrials_alloc": 0.101926977687627,
+        "materials_alloc": 0.043813387423935,
+        "real_estate_alloc": 0,
+        "technology_alloc": 0.233367139959432,
+        "utilities_alloc": 0,
+        "sector_diversification_score": 6.14022312373225
+      }
+    },
+    {
+      "ticker": "VFMF",
+      "metrics": {
+        "comm_services_alloc": 0.047690763052209,
+        "cons_disc_alloc": 0.134638554216867,
+        "cons_staples_alloc": 0.06706827309237,
+        "energy_alloc": 0.073393574297189,
+        "financials_alloc": 0.245381526104418,
+        "health_care_alloc": 0.169879518072289,
+        "industrials_alloc": 0.096987951807229,
+        "materials_alloc": 0.033333333333333,
+        "real_estate_alloc": 0.00281124497992,
+        "technology_alloc": 0.128815261044177,
+        "utilities_alloc": 0,
+        "sector_diversification_score": 6.8205421686747
+      }
+    },
+    {
+      "ticker": "VFMO",
+      "metrics": {
+        "comm_services_alloc": 0.033569979716024,
+        "cons_disc_alloc": 0.085395537525355,
+        "cons_staples_alloc": 0.026369168356998,
+        "energy_alloc": 0.072312373225152,
+        "financials_alloc": 0.065212981744422,
+        "health_care_alloc": 0.229107505070993,
+        "industrials_alloc": 0.247565922920892,
+        "materials_alloc": 0.06419878296146,
+        "real_estate_alloc": 0,
+        "technology_alloc": 0.174746450304259,
+        "utilities_alloc": 0.001521298174442,
+        "sector_diversification_score": 6.25094320486816
+      }
+    },
+    {
+      "ticker": "VFMV",
+      "metrics": {
+        "comm_services_alloc": 0.107291273139403,
+        "cons_disc_alloc": 0.066018133736305,
+        "cons_staples_alloc": 0.094540989799773,
+        "energy_alloc": 0.038817529278428,
+        "financials_alloc": 0.105874574990555,
+        "health_care_alloc": 0.10115224782773,
+        "industrials_alloc": 0.110691348696638,
+        "materials_alloc": 0,
+        "real_estate_alloc": 0.063940309784662,
+        "technology_alloc": 0.244805440120892,
+        "utilities_alloc": 0.066868152625614,
+        "sector_diversification_score": 7.83287684170759
+      }
+    },
+    {
+      "ticker": "VFQY",
+      "metrics": {
+        "comm_services_alloc": 0.028253681995792,
+        "cons_disc_alloc": 0.128644424406372,
+        "cons_staples_alloc": 0.091373609858732,
+        "energy_alloc": 0.021841498847811,
+        "financials_alloc": 0.190361687205691,
+        "health_care_alloc": 0.089269612263301,
+        "industrials_alloc": 0.171225328123435,
+        "materials_alloc": 0.024847209698427,
+        "real_estate_alloc": 0,
+        "technology_alloc": 0.254182947600441,
+        "utilities_alloc": 0,
+        "sector_diversification_score": 6.22569882777276
+      }
+    },
+    {
+      "ticker": "VFVA",
+      "metrics": {
+        "comm_services_alloc": 0.062230251932149,
+        "cons_disc_alloc": 0.128475358827663,
+        "cons_staples_alloc": 0.070962561477467,
+        "energy_alloc": 0.073271103081401,
+        "financials_alloc": 0.265181170330224,
+        "health_care_alloc": 0.14915186188899,
+        "industrials_alloc": 0.07568001605942,
+        "materials_alloc": 0.034628124059019,
+        "real_estate_alloc": 0.004115226337449,
+        "technology_alloc": 0.136304326006223,
+        "utilities_alloc": 0,
+        "sector_diversification_score": 6.87678410117433
+      }
+    },
+    {
+      "ticker": "VIOO",
+      "metrics": {
+        "comm_services_alloc": 0.036504424778761,
+        "cons_disc_alloc": 0.130631536604989,
+        "cons_staples_alloc": 0.035901045856798,
+        "energy_alloc": 0.053801287208367,
+        "financials_alloc": 0.164420756234917,
+        "health_care_alloc": 0.109312148028963,
+        "industrials_alloc": 0.151347546259052,
+        "materials_alloc": 0.049979887369268,
+        "real_estate_alloc": 0.075724054706356,
+        "technology_alloc": 0.173370876910701,
+        "utilities_alloc": 0.019006436041834,
+        "sector_diversification_score": 7.28207964601768
+      }
+    },
+    {
+      "ticker": "VTHR",
+      "metrics": {
+        "comm_services_alloc": 0.099194617188295,
+        "cons_disc_alloc": 0.097665409317971,
+        "cons_staples_alloc": 0.043327556325822,
+        "energy_alloc": 0.033336731573045,
+        "financials_alloc": 0.115302273422365,
+        "health_care_alloc": 0.086859007034354,
+        "industrials_alloc": 0.095524518299519,
+        "materials_alloc": 0.021714751758589,
+        "real_estate_alloc": 0.021612804567234,
+        "technology_alloc": 0.364155367519618,
+        "utilities_alloc": 0.021306962993169,
+        "sector_diversification_score": 6.85876236109701
+      }
+    },
+    {
+      "ticker": "VTI",
+      "metrics": {
+        "comm_services_alloc": 0.096902790555045,
+        "cons_disc_alloc": 0.096596136154554,
+        "cons_staples_alloc": 0.043136052335685,
+        "energy_alloc": 0.033220893386487,
+        "financials_alloc": 0.113871000715527,
+        "health_care_alloc": 0.086987631605847,
+        "industrials_alloc": 0.097413881222529,
+        "materials_alloc": 0.020034754165389,
+        "real_estate_alloc": 0.021874680568333,
+        "technology_alloc": 0.369109680057244,
+        "utilities_alloc": 0.020852499233364,
+        "sector_diversification_score": 6.83845446182151
+      }
+    },
+    {
+      "ticker": "VTWG",
+      "metrics": {
+        "comm_services_alloc": 0.02224728316588,
+        "cons_disc_alloc": 0.070740209144965,
+        "cons_staples_alloc": 0.02337502563051,
+        "energy_alloc": 0.030859134713963,
+        "financials_alloc": 0.077711708017222,
+        "health_care_alloc": 0.219089604264913,
+        "industrials_alloc": 0.231392249333603,
+        "materials_alloc": 0.039881074431002,
+        "real_estate_alloc": 0.02009432027886,
+        "technology_alloc": 0.258047980315764,
+        "utilities_alloc": 0.006561410703301,
+        "sector_diversification_score": 5.68555464424854
+      }
+    },
+    {
+      "ticker": "VTWO",
+      "metrics": {
+        "comm_services_alloc": 0.018899101518125,
+        "cons_disc_alloc": 0.079004440772489,
+        "cons_staples_alloc": 0.021274398430239,
+        "energy_alloc": 0.053392543633172,
+        "financials_alloc": 0.155943405969226,
+        "health_care_alloc": 0.164824950944957,
+        "industrials_alloc": 0.18083238665703,
+        "materials_alloc": 0.046886295569556,
+        "real_estate_alloc": 0.058762780130126,
+        "technology_alloc": 0.19229577610245,
+        "utilities_alloc": 0.027883920272643,
+        "sector_diversification_score": 6.7304244552308
+      }
+    },
+    {
+      "ticker": "VTWV",
+      "metrics": {
+        "comm_services_alloc": 0.014424552429667,
+        "cons_disc_alloc": 0.09012787723785,
+        "cons_staples_alloc": 0.018823529411765,
+        "energy_alloc": 0.079079283887467,
+        "financials_alloc": 0.242352941176467,
+        "health_care_alloc": 0.101790281329922,
+        "industrials_alloc": 0.12552429667519,
+        "materials_alloc": 0.055549872122762,
+        "real_estate_alloc": 0.102915601023017,
+        "technology_alloc": 0.11856777493606,
+        "utilities_alloc": 0.05084398976982,
+        "sector_diversification_score": 7.65760613810745
+      }
+    },
+    {
+      "ticker": "VUSG",
+      "metrics": {
+        "comm_services_alloc": 0.108001658374793,
+        "cons_disc_alloc": 0.149461028192371,
+        "cons_staples_alloc": 0,
+        "energy_alloc": 0,
+        "financials_alloc": 0.051305970149254,
+        "health_care_alloc": 0.067164179104478,
+        "industrials_alloc": 0.029643449419569,
+        "materials_alloc": 0,
+        "real_estate_alloc": 0.020004145936982,
+        "technology_alloc": 0.574419568822554,
+        "utilities_alloc": 0,
+        "sector_diversification_score": 4.46436567164179
+      }
+    },
+    {
+      "ticker": "VUSV",
+      "metrics": {
+        "comm_services_alloc": 0.073514185131497,
+        "cons_disc_alloc": 0.084593083454131,
+        "cons_staples_alloc": 0.0648167322427,
+        "energy_alloc": 0.086974528887969,
+        "financials_alloc": 0.167943673638434,
+        "health_care_alloc": 0.138227376268379,
+        "industrials_alloc": 0.109753572168151,
+        "materials_alloc": 0.046489956512736,
+        "real_estate_alloc": 0.046489956512736,
+        "technology_alloc": 0.143818595982605,
+        "utilities_alloc": 0.037378339200663,
+        "sector_diversification_score": 8.05854214123007
+      }
+    },
+    {
+      "ticker": "VXF",
+      "metrics": {
+        "comm_services_alloc": 0.030494761954155,
+        "cons_disc_alloc": 0.091795456902813,
+        "cons_staples_alloc": 0.023752722746604,
+        "energy_alloc": 0.044808629810187,
+        "financials_alloc": 0.139093455035789,
+        "health_care_alloc": 0.126646613421848,
+        "industrials_alloc": 0.194793071258174,
+        "materials_alloc": 0.041593195726586,
+        "real_estate_alloc": 0.057774089824709,
+        "technology_alloc": 0.230059122497673,
+        "utilities_alloc": 0.019188880821492,
+        "sector_diversification_score": 6.7543615807488
+      }
+    },
+    {
+      "ticker": "WTV",
+      "metrics": {
+        "comm_services_alloc": 0.072258339550251,
+        "cons_disc_alloc": 0.091015666631142,
+        "cons_staples_alloc": 0.093786635404455,
+        "energy_alloc": 0.069061067888735,
+        "financials_alloc": 0.182564211872535,
+        "health_care_alloc": 0.083235638921454,
+        "industrials_alloc": 0.11126505382074,
+        "materials_alloc": 0.044868378983268,
+        "real_estate_alloc": 0.046893317702228,
+        "technology_alloc": 0.162421400404988,
+        "utilities_alloc": 0.042630288820207,
+        "sector_diversification_score": 8.15357561547479
       }
     },
     {
