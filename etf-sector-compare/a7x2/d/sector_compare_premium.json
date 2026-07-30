@@ -2,9 +2,9 @@
   "meta": {
     "tool": "etf-sector-compare",
     "audience": "premium",
-    "as_of_date": "2026-07-28",
+    "as_of_date": "2026-07-29",
     "record_count": 1474,
-    "generated_at": "2026-07-29T08:56:53"
+    "generated_at": "2026-07-30T08:11:07"
   },
   "etfs": [
     {
@@ -23657,18 +23657,18 @@
     {
       "ticker": "DFAT",
       "metrics": {
-        "comm_services_alloc": 0.019288181643317,
-        "cons_disc_alloc": 0.141563211297407,
-        "cons_staples_alloc": 0.068804499406918,
-        "energy_alloc": 0.101742578463117,
-        "financials_alloc": 0.292980396242747,
-        "health_care_alloc": 0.070328278780496,
-        "industrials_alloc": 0.164581196101689,
-        "materials_alloc": 0.048322139582599,
-        "real_estate_alloc": 0.009213805982111,
-        "technology_alloc": 0.079134341038053,
-        "utilities_alloc": 0.004041371461546,
-        "sector_diversification_score": 6.6614129171609
+        "comm_services_alloc": 0.020044164090528,
+        "cons_disc_alloc": 0.142876146515274,
+        "cons_staples_alloc": 0.072489923890416,
+        "energy_alloc": 0.10368500114029,
+        "financials_alloc": 0.29269174381684,
+        "health_care_alloc": 0.072727577068217,
+        "industrials_alloc": 0.160670058351353,
+        "materials_alloc": 0.048016076441731,
+        "real_estate_alloc": 0.009298422144329,
+        "technology_alloc": 0.073500489103033,
+        "utilities_alloc": 0.004000397437987,
+        "sector_diversification_score": 6.67076279674479
       }
     },
     {
