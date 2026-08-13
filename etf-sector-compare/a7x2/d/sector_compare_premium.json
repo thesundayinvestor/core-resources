@@ -2,9 +2,9 @@
   "meta": {
     "tool": "etf-sector-compare",
     "audience": "premium",
-    "as_of_date": "2026-08-11",
-    "record_count": 1470,
-    "generated_at": "2026-08-12T08:30:50"
+    "as_of_date": "2026-08-12",
+    "record_count": 1468,
+    "generated_at": "2026-08-13T07:50:34"
   },
   "etfs": [
     {
@@ -1637,23 +1637,6 @@
         "technology_alloc": 0.23572577402493,
         "utilities_alloc": 0,
         "sector_diversification_score": 5.19773823884198
-      }
-    },
-    {
-      "ticker": "BELT",
-      "metrics": {
-        "comm_services_alloc": 0.135593220338983,
-        "cons_disc_alloc": 0.135479467637356,
-        "cons_staples_alloc": 0,
-        "energy_alloc": 0,
-        "financials_alloc": 0.136503241951996,
-        "health_care_alloc": 0,
-        "industrials_alloc": 0.219315208736207,
-        "materials_alloc": 0,
-        "real_estate_alloc": 0,
-        "technology_alloc": 0.373108861335457,
-        "utilities_alloc": 0,
-        "sector_diversification_score": 4.6
       }
     },
     {
@@ -9236,23 +9219,6 @@
         "technology_alloc": 0.119712608783647,
         "utilities_alloc": 0.060008095527221,
         "sector_diversification_score": 6.4195810564663
-      }
-    },
-    {
-      "ticker": "IEDI",
-      "metrics": {
-        "comm_services_alloc": 0.02060814223659,
-        "cons_disc_alloc": 0.647641175876351,
-        "cons_staples_alloc": 0.23547833114456,
-        "energy_alloc": 0,
-        "financials_alloc": 0.029295888473583,
-        "health_care_alloc": 0.001919385796545,
-        "industrials_alloc": 0.050005051015254,
-        "materials_alloc": 0,
-        "real_estate_alloc": 0.004545913728659,
-        "technology_alloc": 0.010506111728457,
-        "utilities_alloc": 0,
-        "sector_diversification_score": 3.05711688049298
       }
     },
     {
