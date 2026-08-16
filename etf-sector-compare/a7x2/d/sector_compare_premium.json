@@ -3,8 +3,8 @@
     "tool": "etf-sector-compare",
     "audience": "premium",
     "as_of_date": "2026-08-14",
-    "record_count": 1468,
-    "generated_at": "2026-08-15T13:48:53"
+    "record_count": 1470,
+    "generated_at": "2026-08-16T08:52:01"
   },
   "etfs": [
     {
@@ -141,6 +141,23 @@
         "technology_alloc": 0.263801222322413,
         "utilities_alloc": 0.280633203085863,
         "sector_diversification_score": 5.44869251577998
+      }
+    },
+    {
+      "ticker": "ACKY",
+      "metrics": {
+        "comm_services_alloc": null,
+        "cons_disc_alloc": null,
+        "cons_staples_alloc": null,
+        "energy_alloc": null,
+        "financials_alloc": null,
+        "health_care_alloc": null,
+        "industrials_alloc": null,
+        "materials_alloc": null,
+        "real_estate_alloc": null,
+        "technology_alloc": null,
+        "utilities_alloc": null,
+        "sector_diversification_score": null
       }
     },
     {
@@ -4088,6 +4105,23 @@
       }
     },
     {
+      "ticker": "DRKY",
+      "metrics": {
+        "comm_services_alloc": null,
+        "cons_disc_alloc": null,
+        "cons_staples_alloc": null,
+        "energy_alloc": null,
+        "financials_alloc": null,
+        "health_care_alloc": null,
+        "industrials_alloc": null,
+        "materials_alloc": null,
+        "real_estate_alloc": null,
+        "technology_alloc": null,
+        "utilities_alloc": null,
+        "sector_diversification_score": null
+      }
+    },
+    {
       "ticker": "DRLL",
       "metrics": {
         "comm_services_alloc": 0,
@@ -6074,23 +6108,6 @@
         "technology_alloc": 0.362758334198774,
         "utilities_alloc": 0.020043618236577,
         "sector_diversification_score": 6.7858344584069
-      }
-    },
-    {
-      "ticker": "FDRS",
-      "metrics": {
-        "comm_services_alloc": 0.117338709677419,
-        "cons_disc_alloc": 0.11945564516129,
-        "cons_staples_alloc": 0,
-        "energy_alloc": 0,
-        "financials_alloc": 0.144758064516129,
-        "health_care_alloc": 0.024495967741936,
-        "industrials_alloc": 0.051814516129032,
-        "materials_alloc": 0.006754032258065,
-        "real_estate_alloc": 0,
-        "technology_alloc": 0.535383064516129,
-        "utilities_alloc": 0,
-        "sector_diversification_score": 4.52233870967742
       }
     },
     {
@@ -12044,23 +12061,6 @@
       }
     },
     {
-      "ticker": "MAVF",
-      "metrics": {
-        "comm_services_alloc": 0.155811623246493,
-        "cons_disc_alloc": 0.130060120240481,
-        "cons_staples_alloc": 0.064629258517034,
-        "energy_alloc": 0,
-        "financials_alloc": 0.236673346693387,
-        "health_care_alloc": 0.094488977955912,
-        "industrials_alloc": 0.044188376753507,
-        "materials_alloc": 0,
-        "real_estate_alloc": 0,
-        "technology_alloc": 0.274148296593186,
-        "utilities_alloc": 0,
-        "sector_diversification_score": 5.67729458917836
-      }
-    },
-    {
       "ticker": "MBOX",
       "metrics": {
         "comm_services_alloc": 0.03974660263615,
@@ -14829,23 +14829,6 @@
         "technology_alloc": 0,
         "utilities_alloc": 0,
         "sector_diversification_score": 1.9
-      }
-    },
-    {
-      "ticker": "QABA",
-      "metrics": {
-        "comm_services_alloc": 0,
-        "cons_disc_alloc": 0,
-        "cons_staples_alloc": 0,
-        "energy_alloc": 0,
-        "financials_alloc": 0.997169429842297,
-        "health_care_alloc": 0,
-        "industrials_alloc": 0.002830570157703,
-        "materials_alloc": 0,
-        "real_estate_alloc": 0,
-        "technology_alloc": 0,
-        "utilities_alloc": 0,
-        "sector_diversification_score": 1.02802264456126
       }
     },
     {
@@ -22380,6 +22363,23 @@
       }
     },
     {
+      "ticker": "FDRS",
+      "metrics": {
+        "comm_services_alloc": 0.117338709677419,
+        "cons_disc_alloc": 0.11945564516129,
+        "cons_staples_alloc": 0,
+        "energy_alloc": 0,
+        "financials_alloc": 0.144758064516129,
+        "health_care_alloc": 0.024495967741936,
+        "industrials_alloc": 0.051814516129032,
+        "materials_alloc": 0.006754032258065,
+        "real_estate_alloc": 0,
+        "technology_alloc": 0.535383064516129,
+        "utilities_alloc": 0,
+        "sector_diversification_score": 4.52233870967742
+      }
+    },
+    {
       "ticker": "FDVV",
       "metrics": {
         "comm_services_alloc": 0.035078216892028,
@@ -23400,6 +23400,23 @@
       }
     },
     {
+      "ticker": "MAVF",
+      "metrics": {
+        "comm_services_alloc": 0.155811623246493,
+        "cons_disc_alloc": 0.130060120240481,
+        "cons_staples_alloc": 0.064629258517034,
+        "energy_alloc": 0,
+        "financials_alloc": 0.236673346693387,
+        "health_care_alloc": 0.094488977955912,
+        "industrials_alloc": 0.044188376753507,
+        "materials_alloc": 0,
+        "real_estate_alloc": 0,
+        "technology_alloc": 0.274148296593186,
+        "utilities_alloc": 0,
+        "sector_diversification_score": 5.67729458917836
+      }
+    },
+    {
       "ticker": "MDY",
       "metrics": {
         "comm_services_alloc": 0.015494095185925,
@@ -23737,6 +23754,23 @@
         "technology_alloc": 0.274125326399082,
         "utilities_alloc": 0,
         "sector_diversification_score": 3.17841844389407
+      }
+    },
+    {
+      "ticker": "QABA",
+      "metrics": {
+        "comm_services_alloc": 0,
+        "cons_disc_alloc": 0,
+        "cons_staples_alloc": 0,
+        "energy_alloc": 0,
+        "financials_alloc": 0.997169429842297,
+        "health_care_alloc": 0,
+        "industrials_alloc": 0.002830570157703,
+        "materials_alloc": 0,
+        "real_estate_alloc": 0,
+        "technology_alloc": 0,
+        "utilities_alloc": 0,
+        "sector_diversification_score": 1.02802264456126
       }
     },
     {
