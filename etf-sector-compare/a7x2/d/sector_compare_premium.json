@@ -2,9 +2,9 @@
   "meta": {
     "tool": "etf-sector-compare",
     "audience": "premium",
-    "as_of_date": "2026-08-18",
-    "record_count": 1470,
-    "generated_at": "2026-08-19T08:15:19"
+    "as_of_date": "2026-08-19",
+    "record_count": 1468,
+    "generated_at": "2026-08-20T10:05:44"
   },
   "etfs": [
     {
@@ -1019,10 +1019,10 @@
         "energy_alloc": 0.075303643724697,
         "financials_alloc": 0.240384615384617,
         "health_care_alloc": 0.112651821862349,
-        "industrials_alloc": 0.139473684210527,
+        "industrials_alloc": 0.138157894736843,
         "materials_alloc": 0.055263157894737,
         "real_estate_alloc": 0.008097165991903,
-        "technology_alloc": 0.122368421052632,
+        "technology_alloc": 0.123684210526317,
         "utilities_alloc": 0.020647773279352,
         "sector_diversification_score": 6.96477732793521
       }
@@ -13588,40 +13588,6 @@
         "technology_alloc": 0.254369128194767,
         "utilities_alloc": 0.09859581775937,
         "sector_diversification_score": 4.80502070916254
-      }
-    },
-    {
-      "ticker": "PCGG",
-      "metrics": {
-        "comm_services_alloc": null,
-        "cons_disc_alloc": null,
-        "cons_staples_alloc": null,
-        "energy_alloc": null,
-        "financials_alloc": null,
-        "health_care_alloc": null,
-        "industrials_alloc": null,
-        "materials_alloc": null,
-        "real_estate_alloc": null,
-        "technology_alloc": null,
-        "utilities_alloc": null,
-        "sector_diversification_score": null
-      }
-    },
-    {
-      "ticker": "PCIG",
-      "metrics": {
-        "comm_services_alloc": 0.103160342458514,
-        "cons_disc_alloc": 0.089736814290244,
-        "cons_staples_alloc": 0,
-        "energy_alloc": 0,
-        "financials_alloc": 0.119331994503752,
-        "health_care_alloc": 0.085614628474791,
-        "industrials_alloc": 0.106859739985202,
-        "materials_alloc": 0,
-        "real_estate_alloc": 0,
-        "technology_alloc": 0.495296480287496,
-        "utilities_alloc": 0,
-        "sector_diversification_score": 5.43597928337385
       }
     },
     {

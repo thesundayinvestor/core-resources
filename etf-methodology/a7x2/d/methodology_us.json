@@ -1,7 +1,7 @@
 ﻿{
   "methodology": "ETF Rankings - U.S. Ranking Methodology",
   "region": "US",
-  "as_of_date": "2026-08-19",
+  "as_of_date": "2026-08-20",
   "metrics": [
     {
       "methodology_display_name": "Expense Ratio",
@@ -213,7 +213,7 @@
       "notes": "The TTM P/EBITDA ratio based on current holdings (harmonic average)."
     },
     {
-      "methodology_display_name": "1Y Historical Buyback Yield",
+      "methodology_display_name": "1Y Share Count Reduction",
       "methodology_group": 5,
       "methodology_group_label": "Value",
       "methodology_group_order": 7,
@@ -221,7 +221,7 @@
       "metric_category_weight_us": 0.125,
       "metric_weight_in_category_us": 0.1,
       "metric_weight_net_us": 0.0125,
-      "notes": "The weighted average buyback yield based on current holdings."
+      "notes": "The weighted average one-year change in shares outstanding."
     },
     {
       "methodology_display_name": "Estimated Dividend Yield",
