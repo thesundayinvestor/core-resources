@@ -1,5 +1,5 @@
 {
-  "as_of_date": "2026-08-29",
+  "as_of_date": "2026-08-31",
   "methodology_version": "similarity_core_distance_v4",
   "top_n": 10,
   "max_expense_ratio_increase": 0.001,
