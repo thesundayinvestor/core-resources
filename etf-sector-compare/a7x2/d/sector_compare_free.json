@@ -4,7 +4,7 @@
     "audience": "free",
     "as_of_date": "2026-09-18",
     "record_count": 1461,
-    "generated_at": "2026-09-19T07:35:21"
+    "generated_at": "2026-09-19T10:47:32"
   },
   "etfs": [
     {
@@ -17537,18 +17537,18 @@
     {
       "ticker": "COWZ",
       "metrics": {
-        "comm_services_alloc": 0.086459995029941,
-        "cons_disc_alloc": 0.121880686509495,
-        "cons_staples_alloc": 0.09495318524694,
-        "energy_alloc": 0.123433830072066,
+        "comm_services_alloc": 0.082224206787064,
+        "cons_disc_alloc": 0.096410258949643,
+        "cons_staples_alloc": 0.077445657365649,
+        "energy_alloc": 0.196677909200813,
         "financials_alloc": 0,
-        "health_care_alloc": 0.202186224919237,
-        "industrials_alloc": 0.115246258427056,
-        "materials_alloc": 0.044129317739104,
+        "health_care_alloc": 0.145559066274537,
+        "industrials_alloc": 0.146992657208462,
+        "materials_alloc": 0.045648149623102,
         "real_estate_alloc": 0,
-        "technology_alloc": 0.211710502056162,
+        "technology_alloc": 0.20904209459073,
         "utilities_alloc": 0,
-        "sector_diversification_score": 6.79283419641354
+        "sector_diversification_score": 6.63264833638057
       }
     },
     {
