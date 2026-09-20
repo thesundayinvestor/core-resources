@@ -4,7 +4,7 @@
     "audience": "premium",
     "as_of_date": "2026-09-18",
     "record_count": 1461,
-    "generated_at": "2026-09-19T10:47:48"
+    "generated_at": "2026-09-20T20:29:13"
   },
   "etfs": [
     {
@@ -22875,18 +22875,18 @@
     {
       "ticker": "SPMO",
       "metrics": {
-        "comm_services_alloc": 0.082974947881064,
-        "cons_disc_alloc": 0.012103203000129,
-        "cons_staples_alloc": 0.045046974599588,
-        "energy_alloc": 0.035988338169077,
-        "financials_alloc": 0.060834283300823,
-        "health_care_alloc": 0.076083138085406,
-        "industrials_alloc": 0.123386014410148,
-        "materials_alloc": 0.017935119305575,
-        "real_estate_alloc": 0.011107363507437,
-        "technology_alloc": 0.52282474125688,
-        "utilities_alloc": 0.011715876483876,
-        "sector_diversification_score": 5.40251351889643
+        "comm_services_alloc": 0.090336980253929,
+        "cons_disc_alloc": 0.01254327293568,
+        "cons_staples_alloc": 0.026179823986681,
+        "energy_alloc": 0.059904477397762,
+        "financials_alloc": 0.070709292892766,
+        "health_care_alloc": 0.109720958908664,
+        "industrials_alloc": 0.076739472327021,
+        "materials_alloc": 0.006812029120131,
+        "real_estate_alloc": 0.022343238364466,
+        "technology_alloc": 0.522903462514948,
+        "utilities_alloc": 0.001806991297952,
+        "sector_diversification_score": 5.53701822790624
       }
     },
     {
