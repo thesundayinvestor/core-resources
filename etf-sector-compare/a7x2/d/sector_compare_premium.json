@@ -2,9 +2,9 @@
   "meta": {
     "tool": "etf-sector-compare",
     "audience": "premium",
-    "as_of_date": "2026-09-29",
+    "as_of_date": "2026-09-30",
     "record_count": 1459,
-    "generated_at": "2026-09-30T07:59:26"
+    "generated_at": "2026-10-01T07:16:30"
   },
   "etfs": [
     {
@@ -24524,18 +24524,18 @@
     {
       "ticker": "VXF",
       "metrics": {
-        "comm_services_alloc": 0.030702580332934,
-        "cons_disc_alloc": 0.092041931675748,
-        "cons_staples_alloc": 0.02758828067575,
-        "energy_alloc": 0.05007279523581,
-        "financials_alloc": 0.148174246888231,
-        "health_care_alloc": 0.150299381797343,
-        "industrials_alloc": 0.185410174323833,
-        "materials_alloc": 0.039070488872149,
-        "real_estate_alloc": 0.057274360080267,
-        "technology_alloc": 0.201896928425779,
-        "utilities_alloc": 0.01746883169215,
-        "sector_diversification_score": 6.79955563520173
+        "comm_services_alloc": 0.030702642502784,
+        "cons_disc_alloc": 0.09204211805204,
+        "cons_staples_alloc": 0.027588336539435,
+        "energy_alloc": 0.050072896628531,
+        "financials_alloc": 0.148174546927205,
+        "health_care_alloc": 0.150299686139516,
+        "industrials_alloc": 0.185410549762074,
+        "materials_alloc": 0.039070567986231,
+        "real_estate_alloc": 0.057274476055483,
+        "technology_alloc": 0.201895312341805,
+        "utilities_alloc": 0.017468867064898,
+        "sector_diversification_score": 6.79956008909587
       }
     },
     {
