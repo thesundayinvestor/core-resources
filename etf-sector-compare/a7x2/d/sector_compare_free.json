@@ -2,9 +2,9 @@
   "meta": {
     "tool": "etf-sector-compare",
     "audience": "free",
-    "as_of_date": "2026-10-01",
+    "as_of_date": "2026-10-02",
     "record_count": 1459,
-    "generated_at": "2026-10-02T07:10:22"
+    "generated_at": "2026-10-03T08:00:05"
   },
   "etfs": [
     {
@@ -15639,8 +15639,8 @@
         "energy_alloc": 0.050046232085068,
         "financials_alloc": 0.122399445214982,
         "health_care_alloc": 0.064147018030515,
-        "industrials_alloc": 0.213014331946372,
-        "materials_alloc": 0.13592233009709,
+        "industrials_alloc": 0.212898751733705,
+        "materials_alloc": 0.136037910309758,
         "real_estate_alloc": 0.071890892279243,
         "technology_alloc": 0.146671289875176,
         "utilities_alloc": 0.023116042533519,
@@ -21451,14 +21451,14 @@
         "cons_disc_alloc": 0.11388838612368,
         "cons_staples_alloc": 0.039862242332831,
         "energy_alloc": 0.004733031674208,
-        "financials_alloc": 0.02878431372549,
+        "financials_alloc": 0.028737053795877,
         "health_care_alloc": 0.052161890397185,
         "industrials_alloc": 0.053438914027149,
         "materials_alloc": 0.007522373051785,
         "real_estate_alloc": 0.005214680744093,
-        "technology_alloc": 0.54698139768728,
+        "technology_alloc": 0.547028657616893,
         "utilities_alloc": 0.006851684263449,
-        "sector_diversification_score": 4.76583438914027
+        "sector_diversification_score": 4.7653665158371
       }
     },
     {
