@@ -2,9 +2,9 @@
   "meta": {
     "tool": "etf-sector-compare",
     "audience": "free",
-    "as_of_date": "2026-10-12",
+    "as_of_date": "2026-10-13",
     "record_count": 1455,
-    "generated_at": "2026-10-13T07:56:14"
+    "generated_at": "2026-10-14T07:53:25"
   },
   "etfs": [
     {
@@ -24289,11 +24289,11 @@
         "comm_services_alloc": 0.087010139077977,
         "cons_disc_alloc": 0.090900074833429,
         "cons_staples_alloc": 0.042909507652144,
-        "energy_alloc": 0.036775570842813,
+        "energy_alloc": 0.036774569056628,
         "financials_alloc": 0.125835364454824,
         "health_care_alloc": 0.100517222207197,
         "industrials_alloc": 0.095616484191315,
-        "materials_alloc": 0.020445454244919,
+        "materials_alloc": 0.020446456031104,
         "real_estate_alloc": 0.02304709296676,
         "technology_alloc": 0.357192874895943,
         "utilities_alloc": 0.01975021463269,
@@ -24459,11 +24459,11 @@
         "comm_services_alloc": 0.030701785470211,
         "cons_disc_alloc": 0.092035496787976,
         "cons_staples_alloc": 0.027588476199637,
-        "energy_alloc": 0.05007315011213,
+        "energy_alloc": 0.050068087820633,
         "financials_alloc": 0.148175297029954,
         "health_care_alloc": 0.150297409625441,
         "industrials_alloc": 0.185413513280922,
-        "materials_alloc": 0.039070765772835,
+        "materials_alloc": 0.039075828064332,
         "real_estate_alloc": 0.057274765995576,
         "technology_alloc": 0.201900384227926,
         "utilities_alloc": 0.017468955497396,
