@@ -2,9 +2,9 @@
   "meta": {
     "tool": "etf-sector-compare",
     "audience": "premium",
-    "as_of_date": "2026-10-13",
+    "as_of_date": "2026-10-14",
     "record_count": 1455,
-    "generated_at": "2026-10-14T07:53:39"
+    "generated_at": "2026-10-15T07:04:40"
   },
   "etfs": [
     {
@@ -24460,14 +24460,14 @@
         "cons_disc_alloc": 0.092035496787976,
         "cons_staples_alloc": 0.027588476199637,
         "energy_alloc": 0.050068087820633,
-        "financials_alloc": 0.148175297029954,
-        "health_care_alloc": 0.150297409625441,
-        "industrials_alloc": 0.185413513280922,
+        "financials_alloc": 0.148175297029953,
+        "health_care_alloc": 0.15029740962544,
+        "industrials_alloc": 0.185413513280921,
         "materials_alloc": 0.039075828064332,
         "real_estate_alloc": 0.057274765995576,
-        "technology_alloc": 0.201900384227926,
-        "utilities_alloc": 0.017468955497396,
-        "sector_diversification_score": 6.79956120057304
+        "technology_alloc": 0.201900384227924,
+        "utilities_alloc": 0.017468955497395,
+        "sector_diversification_score": 6.79956120057307
       }
     },
     {
