@@ -2,9 +2,9 @@
   "meta": {
     "tool": "etf-sector-compare",
     "audience": "premium",
-    "as_of_date": "2026-10-15",
-    "record_count": 1455,
-    "generated_at": "2026-10-16T19:39:08"
+    "as_of_date": "2026-10-16",
+    "record_count": 1454,
+    "generated_at": "2026-10-17T07:57:14"
   },
   "etfs": [
     {
@@ -16583,23 +16583,6 @@
       }
     },
     {
-      "ticker": "AELV",
-      "metrics": {
-        "comm_services_alloc": 0.01770015965556,
-        "cons_disc_alloc": 0.081292289716821,
-        "cons_staples_alloc": 0.026055067163373,
-        "energy_alloc": 0.080326953779915,
-        "financials_alloc": 0.279167150168259,
-        "health_care_alloc": 0.149777122438609,
-        "industrials_alloc": 0.119624629371021,
-        "materials_alloc": 0.023159059352655,
-        "real_estate_alloc": 0,
-        "technology_alloc": 0.222897568353787,
-        "utilities_alloc": 0,
-        "sector_diversification_score": 5.96248194371641
-      }
-    },
-    {
       "ticker": "AFGR",
       "metrics": {
         "comm_services_alloc": 0.163117678554451,
@@ -21193,17 +21176,17 @@
       "ticker": "NOBL",
       "metrics": {
         "comm_services_alloc": 0,
-        "cons_disc_alloc": 0.042790826217217,
-        "cons_staples_alloc": 0.228001786372302,
-        "energy_alloc": 0.032410040533829,
-        "financials_alloc": 0.132016317669866,
-        "health_care_alloc": 0.109949012288319,
-        "industrials_alloc": 0.216357322524312,
-        "materials_alloc": 0.11446000288383,
-        "real_estate_alloc": 0.038420021788936,
-        "technology_alloc": 0.032347958088341,
-        "utilities_alloc": 0.053246711633049,
-        "sector_diversification_score": 6.57223402678757
+        "cons_disc_alloc": 0.042830493472197,
+        "cons_staples_alloc": 0.230901872876534,
+        "energy_alloc": 0.033182484391313,
+        "financials_alloc": 0.132038025793306,
+        "health_care_alloc": 0.111362397554248,
+        "industrials_alloc": 0.213098050458098,
+        "materials_alloc": 0.113457066596402,
+        "real_estate_alloc": 0.03756787096806,
+        "technology_alloc": 0.032327422605923,
+        "utilities_alloc": 0.053234315283919,
+        "sector_diversification_score": 6.57151160854197
       }
     },
     {
@@ -22077,17 +22060,17 @@
       "ticker": "REGL",
       "metrics": {
         "comm_services_alloc": 0,
-        "cons_disc_alloc": 0.098398652761758,
-        "cons_staples_alloc": 0.030662285338972,
-        "energy_alloc": 0.029659065423555,
-        "financials_alloc": 0.31228073337178,
-        "health_care_alloc": 0.048341783608868,
-        "industrials_alloc": 0.15719314686659,
-        "materials_alloc": 0.095999735678585,
-        "real_estate_alloc": 0.072164752338844,
-        "technology_alloc": 0.016769391580162,
-        "utilities_alloc": 0.138530453030886,
-        "sector_diversification_score": 6.55621305507497
+        "cons_disc_alloc": 0.100286142474415,
+        "cons_staples_alloc": 0.030849670889266,
+        "energy_alloc": 0.029407456966338,
+        "financials_alloc": 0.313047740178291,
+        "health_care_alloc": 0.048684670152058,
+        "industrials_alloc": 0.156972429540191,
+        "materials_alloc": 0.094443631382379,
+        "real_estate_alloc": 0.07250442185585,
+        "technology_alloc": 0.014728434110466,
+        "utilities_alloc": 0.139075402450746,
+        "sector_diversification_score": 6.54212907434237
       }
     },
     {
