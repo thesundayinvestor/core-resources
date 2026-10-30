@@ -2,9 +2,9 @@
   "meta": {
     "tool": "etf-sector-compare",
     "audience": "premium",
-    "as_of_date": "2026-10-28",
-    "record_count": 1473,
-    "generated_at": "2026-10-29T07:36:52"
+    "as_of_date": "2026-10-29",
+    "record_count": 1472,
+    "generated_at": "2026-10-30T07:56:51"
   },
   "etfs": [
     {
@@ -6434,23 +6434,6 @@
       }
     },
     {
-      "ticker": "GFGF",
-      "metrics": {
-        "comm_services_alloc": 0.094709470947095,
-        "cons_disc_alloc": 0.0995099509951,
-        "cons_staples_alloc": 0.068706870687069,
-        "energy_alloc": 0.032503250325033,
-        "financials_alloc": 0.118111811181118,
-        "health_care_alloc": 0.099409940994099,
-        "industrials_alloc": 0.03030303030303,
-        "materials_alloc": 0.006400640064006,
-        "real_estate_alloc": 0,
-        "technology_alloc": 0.45034503450345,
-        "utilities_alloc": 0,
-        "sector_diversification_score": 5.96534653465347
-      }
-    },
-    {
       "ticker": "GGME",
       "metrics": {
         "comm_services_alloc": 0.317070654976792,
@@ -12471,18 +12454,18 @@
     {
       "ticker": "QVAL",
       "metrics": {
-        "comm_services_alloc": 0.034964332362102,
-        "cons_disc_alloc": 0.236612076760776,
-        "cons_staples_alloc": 0.063297498241736,
-        "energy_alloc": 0.274289159047523,
+        "comm_services_alloc": 0.03411354229938,
+        "cons_disc_alloc": 0.238215642789541,
+        "cons_staples_alloc": 0.062407300156795,
+        "energy_alloc": 0.269405167177546,
         "financials_alloc": 0,
-        "health_care_alloc": 0.138852607254094,
-        "industrials_alloc": 0.074550386818045,
-        "materials_alloc": 0.071335275796242,
+        "health_care_alloc": 0.135493622250788,
+        "industrials_alloc": 0.085615809472688,
+        "materials_alloc": 0.071786758577826,
         "real_estate_alloc": 0,
-        "technology_alloc": 0.085903747613785,
-        "utilities_alloc": 0.020194916105697,
-        "sector_diversification_score": 6.26743695368231
+        "technology_alloc": 0.082395152063057,
+        "utilities_alloc": 0.02056700521238,
+        "sector_diversification_score": 6.33316712104304
       }
     },
     {
