@@ -1,7 +1,7 @@
 ﻿{
   "methodology": "ETF Rankings - U.S. Ranking Methodology",
   "region": "US",
-  "as_of_date": "2026-10-31",
+  "as_of_date": "2026-11-02",
   "metrics": [
     {
       "methodology_display_name": "Expense Ratio",
@@ -648,8 +648,8 @@
       "methodology_group_order": 2,
       "sector_adjust": true,
       "metric_category_weight_us": 0.05,
-      "metric_weight_in_category_us": 0.5,
-      "metric_weight_net_us": 0.025,
+      "metric_weight_in_category_us": 0.75,
+      "metric_weight_net_us": 0.0375,
       "notes": "The weighted-average next-year EPS growth rate less then one-year EPS growth rate based on current holdings."
     },
     {
@@ -659,8 +659,8 @@
       "methodology_group_order": 1,
       "sector_adjust": false,
       "metric_category_weight_us": 0.05,
-      "metric_weight_in_category_us": 0.5,
-      "metric_weight_net_us": 0.025,
+      "metric_weight_in_category_us": 0.25,
+      "metric_weight_net_us": 0.0125,
       "notes": "The implied consensus Wall Street Analyst rating on a 0-10 scale based on current holdings."
     }
   ]
