@@ -1,7 +1,7 @@
 ﻿{
   "methodology": "ETF Rankings - U.S. Ranking Methodology",
   "region": "US",
-  "as_of_date": "2026-11-02",
+  "as_of_date": "2026-11-03",
   "metrics": [
     {
       "methodology_display_name": "Expense Ratio",
@@ -593,8 +593,8 @@
       "methodology_group_order": 1,
       "sector_adjust": false,
       "metric_category_weight_us": 0.15,
-      "metric_weight_in_category_us": 0.2,
-      "metric_weight_net_us": 0.03,
+      "metric_weight_in_category_us": 0.15,
+      "metric_weight_net_us": 0.0225,
       "notes": "The weighted average three-month total return based on current holdings (not ETF-level)"
     },
     {
@@ -615,8 +615,8 @@
       "methodology_group_order": 3,
       "sector_adjust": false,
       "metric_category_weight_us": 0.15,
-      "metric_weight_in_category_us": 0.2,
-      "metric_weight_net_us": 0.03,
+      "metric_weight_in_category_us": 0.25,
+      "metric_weight_net_us": 0.0375,
       "notes": "The weighted average one-year total return based on current holdings (not ETF-level)"
     },
     {
