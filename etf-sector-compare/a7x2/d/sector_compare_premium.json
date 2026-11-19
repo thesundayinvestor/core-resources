@@ -2,9 +2,9 @@
   "meta": {
     "tool": "etf-sector-compare",
     "audience": "premium",
-    "as_of_date": "2026-11-17",
+    "as_of_date": "2026-11-18",
     "record_count": 1467,
-    "generated_at": "2026-11-18T13:26:04"
+    "generated_at": "2026-11-19T08:12:39"
   },
   "etfs": [
     {
@@ -6811,17 +6811,17 @@
       "ticker": "GWX",
       "metrics": {
         "comm_services_alloc": 0.031038961038961,
-        "cons_disc_alloc": 0.133896103896103,
-        "cons_staples_alloc": 0.064675324675324,
+        "cons_disc_alloc": 0.133896103896105,
+        "cons_staples_alloc": 0.064675324675325,
         "energy_alloc": 0.031298701298701,
-        "financials_alloc": 0.079740259740259,
-        "health_care_alloc": 0.086753246753246,
-        "industrials_alloc": 0.232597402597401,
-        "materials_alloc": 0.116233766233766,
-        "real_estate_alloc": 0.088701298701298,
-        "technology_alloc": 0.125584415584415,
-        "utilities_alloc": 0.009480519480519,
-        "sector_diversification_score": 7.57771428571429
+        "financials_alloc": 0.07974025974026,
+        "health_care_alloc": 0.086753246753247,
+        "industrials_alloc": 0.232597402597404,
+        "materials_alloc": 0.116233766233767,
+        "real_estate_alloc": 0.088701298701299,
+        "technology_alloc": 0.125584415584416,
+        "utilities_alloc": 0.00948051948052,
+        "sector_diversification_score": 7.57771428571428
       }
     },
     {
