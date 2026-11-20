@@ -2,9 +2,9 @@
   "meta": {
     "tool": "etf-sector-compare",
     "audience": "premium",
-    "as_of_date": "2026-11-18",
+    "as_of_date": "2026-11-19",
     "record_count": 1467,
-    "generated_at": "2026-11-19T08:12:39"
+    "generated_at": "2026-11-20T08:03:15"
   },
   "etfs": [
     {
@@ -18302,18 +18302,18 @@
     {
       "ticker": "DTD",
       "metrics": {
-        "comm_services_alloc": 0.069238058793949,
-        "cons_disc_alloc": 0.051760753145955,
-        "cons_staples_alloc": 0.089873841240712,
-        "energy_alloc": 0.08294282285483,
-        "financials_alloc": 0.18517809882336,
-        "health_care_alloc": 0.135917681259304,
-        "industrials_alloc": 0.08449150827535,
-        "materials_alloc": 0.015239425163233,
-        "real_estate_alloc": 0.049408674641829,
-        "technology_alloc": 0.182779940416683,
-        "utilities_alloc": 0.053169195384797,
-        "sector_diversification_score": 7.71163036705648
+        "comm_services_alloc": 0.069893552922275,
+        "cons_disc_alloc": 0.053123117091786,
+        "cons_staples_alloc": 0.092990560353486,
+        "energy_alloc": 0.081241213095,
+        "financials_alloc": 0.184273950592492,
+        "health_care_alloc": 0.134464751958226,
+        "industrials_alloc": 0.085258083952602,
+        "materials_alloc": 0.015163687487448,
+        "real_estate_alloc": 0.050612572805785,
+        "technology_alloc": 0.178349066077528,
+        "utilities_alloc": 0.054629443663387,
+        "sector_diversification_score": 7.75822454308093
       }
     },
     {
